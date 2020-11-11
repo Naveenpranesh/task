@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mobile Crate</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" charset="utf-8"></script>
+</head>
+
+<body>
+
+    <input type="checkbox" id="check">
+    
+    <header>
+        <label for="check">
+            <i class="fas fa-bars" id="sidebar_btn"></i>
+        </label>
+        <div class="left_area">
+            <img src="img/logo.jpg" class="logo_image" alt="">
+            <h3>Mobile <span>Crate</span></h3>
+        </div>
+        <div class="right_area">
+            <a href="#" class="logout_btn">Logout</a>
+        </div>
+    </header>
+  
+    <div class="sidebar">
+        <div class="profile_info">
+            <img src="img/profile4.png" class="profile_image" alt="">
+            <h4>Naveen</h4>
+        </div>
+        <a href="#"><i class="fas fa-desktop"></i><span>Dashboard</span></a>
+        <a href="#"><i class="fas fa-cogs"></i><span>Components</span></a>
+        <a href="#"><i class="fas fa-table"></i><span>Products</span></a>
+        <a href="#"><i class="fas fa-th"></i><span>Categorize</span></a>
+        <a href="#"><i class="fas fa-info-circle"></i><span>About</span></a>
+        <a href="#"><i class="fas fa-sliders-h"></i><span>Settings</span></a>
+
+    </div>
+
+    <div class="products_offer">
+        <center> <img src="img/background1.png"></center>
+    </div>
+
+    <div class="products">
+
+        <figure> <a href="#"><img src="img/product1.jpg" class="mob1"></a><br>
+            <h5>Product Name: Oppo A5<br>Price: Rs.15000<br>Spec: 4g/Dual SIM</h5>
+        </figure>
+        <figure><a href="#"> <img src="img/product5.jpg" class="mob1"></a><br>
+            <h5>Product Name: Samsung S5<br>Price: Rs.25000<br>Spec: 4g/Dual SIM</h5>
+        </figure>
+        <figure> <a href="#"><img src="img/product3.jpg" class="mob1"></a><br>
+            <h5>Product Name: Redmi Note 5<br>Price: Rs.15000<br>Spec: 4g/Dual SIM</h5>
+        </figure>
+        <figure> <a href="#"><img src="img/product4.jpg" class="mob1"></a><br>
+            <h5>Product Name: Samsung S6<br>Price: Rs.19000<br>Spec: 4g/Dual SIM</h5>
+        </figure>
+        <figure> <a href="#"><img src="img/product2.jpg" class="mob1"></a><br>
+            <h5>Product Name: Vivo Viral<br>Price: Rs.20000<br>Spec: 4g/Dual SIM</h5>
+        </figure>
+        <figure> <a href="#"><img src="img/product6.jpg" class="mob1"></a><br>
+            <h5>Product Name: RealMe C2<br>Price: Rs.15000<br>Spec: 4g/Dual SIM</h5>
+        </figure>
+        <figure> <a href="#"><img src="img/product7.jpg" class="mob1"></a><br>
+            <h5>Product Name: Oneplus 2pro<br>Price: Rs.55000<br>Spec: 4g/Dual SIM</h5>
+        </figure>
+        <figure> <a href="#"><img src="img/product8.jpg" class="mob1"></a><br>
+            <h5>Product Name: Vivo Y20<br>Price: Rs.65000<br>Spec: 4g/Dual SIM</h5>
+        </figure>
+        <figure><a href="#"> <img src="img/product9.jpg" class="mob1"></a><br>
+            <h5>Product Name: Xiomi<br>Price: Rs.22000<br>Spec: 4g/Dual SIM</h5>
+        </figure>
+        <figure><a href="#"> <img src="img/product10.jpg" class="mob1"></a><br>
+            <h5>Product Name: Vivo max<br>Price: Rs.13000<br>Spec: 4g/Dual SIM</h5>
+        </figure>
+        <figure><a href="#"> <img src="img/product11.jpg" class="mob1"></a><br>
+            <h5>Product Name: Honor 12Pro<br>Price: Rs.16000<br>Spec: 4g/Dual SIM</h5>
+        </figure>
+        <figure><a href="#"> <img src="img/product12.jpg" class="mob1"></a><br>
+            <h5>Product Name: Apple 12 Pro<br>Price: Rs.98000<br>Spec: 4g/Dual SIM</h5>
+        </figure>
+
+        <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+    </div>
+
+    <div class="foot">
+        <footer>
+            <p><a href="#">© 2007-2020 shoppingCrate.com</a></p>
+        </footer>
+
+    </div>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('.nav_btn').click(function () {
+                $('.mobile_nav_items').toggleClass('active');
+            });
+        });
+
+        var mybutton = document.getElementById("myBtn");
+
+        function topFunction() {
+            document.body.scrollTop = 0;
+            document.documentElement.scrollTop = 0;
+        }
+    </script>
+
+</body>
+
+</html>
