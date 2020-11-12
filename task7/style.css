@@ -1,0 +1,67 @@
+table {
+    border: 1px solid black;
+    text-align: center;
+    position: center;
+    background: #fff;
+    width: 50%;
+    height: auto;
+}
+
+th {
+    border: 1px solid black;
+    background: #db6e26;
+
+}
+
+td {
+    border: 1px solid black;
+    background: #cecccc;
+    color: #17202A;
+}
+
+form,
+h2 {
+    text-align: center;
+}
+
+body {
+    background: #F7F9F9;
+}
+
+button {
+    border-radius: 25px;
+    background: #5DADE2;
+    border: 2px solid #73AD21;
+    position: relative;
+    border: none;
+    outline: none;
+    padding: 5px;
+}
+
+button:hover {
+    background-color: #555;
+    color: white;
+
+    cursor: pointer;
+}
+
+input:hover {
+    background-color: #555;
+    color: white;
+    cursor: pointer;
+}
+
+input {
+    border-radius: 25px;
+    background: #5DADE2;
+    position: relative;
+    border: 2px solid #73AD21;
+    border: none;
+    padding: 5px;
+    outline: none;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
