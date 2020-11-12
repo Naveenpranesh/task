@@ -43,14 +43,12 @@ include "connect.php";
         	$email = mysqli_real_escape_string($conn, $_POST['email']);
 			$name = mysqli_real_escape_string($conn, $_POST['name']);
             $password = md5(mysqli_real_escape_string($conn, $_POST['password']));
-           // $createdDate=date("Y/m/d");
-
-			// create sql
+          
 			$sql = "INSERT INTO test(userName,email,password) VALUES('$name','$email','$password')";
 
-			// save to db and check
+			
 			if(mysqli_query($conn, $sql)){
-				// success
+	
                 header("location: signin.php");
 			} else {
 				echo 'query error: '. mysqli_error($conn);
