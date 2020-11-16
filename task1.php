@@ -40,7 +40,6 @@ if (isset($_POST['submit'])) {
     <form action="<?php echo $_SERVER['PHP_SELF']?>" method="POST">
 
 
-
         <label>Input String:</label>
         <input type="text" name="input" autocomplete="off">
         <br>

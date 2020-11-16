@@ -27,8 +27,6 @@ error_reporting(0);
         if(empty($_POST['password'])){
 			$errors['password'] = 'Password is Required';
         }
-       
-        
 
         if(array_filter($errors)){
 			echo 'errors in form';
