@@ -1,5 +1,5 @@
 <?php
-error_reporting(0);
+    error_reporting(0);
 	include 'connect.php';
     $email = $name = $password = $edit_email =$edit_password = $new_password = $new_email = $new_username= '';
     $errors = array('email' => '', 'name' => '', 'password' => '','edit_email' => '', 'edit_password' => '','new_email' => '', 'new_username' => '', 'new_password' => '');
@@ -169,7 +169,8 @@ error_reporting(0);
 
 		$ret_data = mysqli_fetch_assoc($result);
 
-		mysqli_free_result($result);
+        mysqli_free_result($result);
+        
 		mysqli_close($conn);
 
 	}
@@ -179,6 +180,7 @@ error_reporting(0);
 <!DOCTYPE html>
 <html>
     <head>
+    <title>ASSESSMENT 2</title>
     <style>
     table, th, td {
         border: 1px solid black;

@@ -34,6 +34,7 @@
         text-transform: uppercase;
     }
     </style>
+    <title>TEST SCORE</title>
 </head>
 
 <body>
@@ -52,12 +53,11 @@
         <br>
 
         <button type="submit" name="add_to_array" id="add_to_array" onclick="return validateForm();"
-            autocomplete="off">ADD TO
-            ARRAY</button>
+            autocomplete="off">ADD TO ARRAY</button>
         <input type="button" name="result" id="result" value="Local Display Results" autocomplete="off">
         <input type="button" name="b_score" id="b_score" value="Local Display Score" autocomplete="off">
-       
-       
+
+
         <input type="button" name="db_result" id="db_result" value="DB Display Results" autocomplete="off">
         <input type="button" name="db_score" id="db_score" value=" DB Display Score" autocomplete="off">
         <br>
@@ -68,23 +68,21 @@
 
             <div class="register_output" id="score_output"></div>
             <div class="register_output" id="register_output"></div>
-          
-           
+
+
             <div class="db_score_output" id="db_score_output"></div>
             <div class="db_register_output" id="db_register_output"></div>
-          
+
             <div class="results" id="results"></div>
         </div>
 
 
         <script>
-        
-            $('#array_index').hide();
-            $('#result').hide();
-           $('#b_score').hide();
-           $('#db_result').hide();
-           $('#db_score').hide();
-
+        $('#array_index').hide();
+        $('#result').hide();
+        $('#b_score').hide();
+        $('#db_result').hide();
+        $('#db_score').hide();
         </script>
 
 

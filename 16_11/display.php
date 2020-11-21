@@ -4,7 +4,7 @@ error_reporting(0);
 include 'connect.php';
 
 
-            $sql = "SELECT name,score  from array_storage ORDER BY score desc limit 5";
+            $sql = "SELECT name,score  from array_storage ORDER BY id desc limit 5";
                 
         $result = mysqli_query($conn, $sql);
  

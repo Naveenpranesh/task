@@ -69,7 +69,7 @@ if(isset($_POST['equals'])){
 
 <html>
 <head>
-<title> Calculator Apps Using PHP</title>
+<title> Calculator With PERC Apps Using PHP</title>
 </head>
 <body>
 <center>

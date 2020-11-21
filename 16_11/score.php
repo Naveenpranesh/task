@@ -13,7 +13,7 @@ include 'connect.php';
         
         while($row = mysqli_fetch_array($result)) {
             echo "<p>Average Score is ".$row['average'].'</p>';
-         echo "<p> ".$row['name']." has the High Score of".$row['score']. "</p>"; 
+         echo "<p> ".$row['name']." has the High Score of ".$row['high']. "</p>"; 
 
         }
         

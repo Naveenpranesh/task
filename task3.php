@@ -35,6 +35,13 @@ if (isset($_POST['submit'])) {
 
 <!DOCTYPE HTML>
 <html>
+<head>
+    <meta charset="utf-8">
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"> </script>
+
+    
+    <title>ASSESMENT 1-3 SCORE</title>
+</head>
 
 <body>
 

@@ -109,9 +109,6 @@ error_reporting(0);
   </div>
 </div>
 
-
-
-
         <div class="text-center mb-4">
             <img class="mb-4" src="img/logo.jpg" alt="" width="72" height="72">
             <h1 class="h3 mb-3 font-weight-normal">EDIT SECTION</h1>
@@ -119,15 +116,14 @@ error_reporting(0);
 
 
         </div>
+
         <div class="form-row">
             <div class="form-group col-md-8">
                 <label for="name">ID</label>
                 <input type="number" class="form-control" placeholder="01234..." name="pid" id="pid"
                     value='<?php echo $id; ?>' disabled>
             </div>
-
         </div>
-
 
         <div class="form-row">
             <div class="form-group col-md-6">

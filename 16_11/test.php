@@ -54,10 +54,6 @@ if (isset($_POST['submit'])) {
         <br>
         <br>
 
-
-      
-
-        
         <br>
         <br>
     </form>

@@ -18,9 +18,6 @@ $(document).ready(function () {
 
         var data = "name=" + name + "&email=" + email + "&dob=" + dob + "&age=" + age + "&gender=" + gender + "&course=" + course + "&address=" + address; //+street+appartment+city+zip;
 
-
-
-
         $.ajax({
             method: "post",
             url: "register.php",

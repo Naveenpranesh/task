@@ -1,0 +1,428 @@
+#pract/pract/DESKTOP-48FONG0/::1/2020-11-21/07:34:18/
+21/11/2020 07:34:18.357357|::1| [trace] [d180c49907073a84de26b502241fe0a6] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 07:34:18.408586|::1| [trace] [d180c49907073a84de26b502241fe0a6] action (114) include_once() : array ( 'application' => 'task', 'action' => 'login_form', )
+21/11/2020 07:34:26.362788|::1| [trace] [6de504e03bb1d691c6735ec860ec2f37] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 07:34:26.372327|::1| [trace] [6de504e03bb1d691c6735ec860ec2f37] action (114) include_once() : array ( 'application' => 'task', 'action' => 'login', 'username' => 'naveen', 'password' => 'naveenpranesh', )
+21/11/2020 07:34:26.395931|::1| [trace] [6de504e03bb1d691c6735ec860ec2f37] database.class.inc (48) Database->query() : SELECT * FROM test WHERE userName='naveen' AND password='39ddefcabc088a98a290e92ade641ba0'
+21/11/2020 07:34:26.641747|::1| [trace] [6de504e03bb1d691c6735ec860ec2f37] task.class.inc (48) Database->query() : insert into mt_activity (user_id,user_in) values ('15','2020-11-21 07:34:26')
+21/11/2020 07:34:26.657141|::1| [error] [6de504e03bb1d691c6735ec860ec2f37] task.class.inc (52) Database->query() : Error in query. insert into mt_activity (user_id,user_in) values ('15','2020-11-21 07:34:26') . Details
+21/11/2020 07:34:26.677911|::1| [trace] [6de504e03bb1d691c6735ec860ec2f37] database.class.inc (48) Database->query() : SHOW FULL PROCESSLIST
+21/11/2020 07:34:26.710119|::1| [error] [6de504e03bb1d691c6735ec860ec2f37] task.class.inc (58) Database->query() : Error in query insert into mt_activity (user_id,user_in) values ('15','2020-11-21 07:34:26') Catch Error at the time of issue array ( 'Id' => '1', 'User' => 'system user', 'Host' => '', 'db' => NULL, 'Command' => 'Daemon', 'Time' => NULL, 'State' => 'InnoDB purge coordinator', 'Info' => NULL, 'Progress' => '0.000', )
+21/11/2020 07:34:26.742856|::1| [trace] [f2161f98a7954d5b90e4c26639b3b1cc] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 07:34:26.775907|::1| [trace] [f2161f98a7954d5b90e4c26639b3b1cc] action (114) include_once() : array ( 'application' => 'task', 'action' => 'initiate', )
+21/11/2020 07:34:26.804076|::1| [trace] [c1ce380eed133ed4ddd980a86ed17889] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 07:34:26.828078|::1| [trace] [c1ce380eed133ed4ddd980a86ed17889] action (114) include_once() : array ( 'application' => 'user', 'action' => 'initiate', )
+21/11/2020 07:34:47.446832|::1| [trace] [a5c8933f081fc2aaa0c70c164c03d195] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 07:34:47.461543|::1| [trace] [a5c8933f081fc2aaa0c70c164c03d195] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 08:48:15.911218|::1| [trace] [e97fffbe50efb8879ed7827de11a3e0f] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 08:48:15.927052|::1| [trace] [e97fffbe50efb8879ed7827de11a3e0f] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 08:48:41.532787|::1| [trace] [3fa06649241dd4ab8f36ca504733369f] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 08:48:41.547492|::1| [trace] [3fa06649241dd4ab8f36ca504733369f] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 08:49:08.000603|::1| [trace] [4a1274f7c009eb09940e1741b415d2cd] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 08:49:08.012707|::1| [trace] [4a1274f7c009eb09940e1741b415d2cd] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 08:50:08.293834|::1| [trace] [ce06c55265d312a8a1b5e94b76ef6e54] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 08:50:08.304944|::1| [trace] [ce06c55265d312a8a1b5e94b76ef6e54] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 08:50:31.254993|::1| [trace] [125fe2379393dbc58a47fafcf63944a8] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 08:50:31.273477|::1| [trace] [125fe2379393dbc58a47fafcf63944a8] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 08:51:44.311126|::1| [trace] [61ef64cdced84c7cb9a95ea0b4ea34e5] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 08:51:44.326893|::1| [trace] [61ef64cdced84c7cb9a95ea0b4ea34e5] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 08:52:14.093431|::1| [trace] [9edbfbe5df64367ec16d778fbf82b723] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 08:52:14.113147|::1| [trace] [9edbfbe5df64367ec16d778fbf82b723] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 08:52:28.501029|::1| [trace] [5bf0bb78ba0f1cd198a1b5995edb3605] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 08:52:28.542788|::1| [trace] [5bf0bb78ba0f1cd198a1b5995edb3605] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 08:53:27.669298|::1| [trace] [6d99b038d8442fc9ab66d07e3ea191d5] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 08:53:27.683871|::1| [trace] [6d99b038d8442fc9ab66d07e3ea191d5] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 08:53:46.507455|::1| [trace] [2714b0fe23aac477015c21f4d7e4e60f] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 08:53:46.523938|::1| [trace] [2714b0fe23aac477015c21f4d7e4e60f] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 08:54:15.472709|::1| [trace] [9cfd5a590825329112a9c160f12643fe] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 08:54:15.509876|::1| [trace] [9cfd5a590825329112a9c160f12643fe] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 08:54:32.884978|::1| [trace] [5b9f8845f47c7af26a7165902db4a570] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 08:54:32.899858|::1| [trace] [5b9f8845f47c7af26a7165902db4a570] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 08:55:39.882858|::1| [trace] [1e019d275968a94d3c9f0f774fab2b29] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 08:55:39.895226|::1| [trace] [1e019d275968a94d3c9f0f774fab2b29] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 08:56:05.972496|::1| [trace] [d9993637dc7468e910512c7d2246e0e3] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 08:56:05.985663|::1| [trace] [d9993637dc7468e910512c7d2246e0e3] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 08:56:17.248851|::1| [trace] [be09fd03285058ec381f9e645357c152] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 08:56:17.266894|::1| [trace] [be09fd03285058ec381f9e645357c152] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 08:56:40.578325|::1| [trace] [9a3c32d2a41447f07437f5f566178cbf] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 08:56:40.596389|::1| [trace] [9a3c32d2a41447f07437f5f566178cbf] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 08:57:00.990912|::1| [trace] [530e304bba7bf68870913af37fafced1] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 08:57:01.008935|::1| [trace] [530e304bba7bf68870913af37fafced1] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 08:57:21.727159|::1| [trace] [4749f665089ec24609389b3617a137ee] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 08:57:21.738444|::1| [trace] [4749f665089ec24609389b3617a137ee] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 08:57:44.335864|::1| [trace] [1869c1cd3eeeac29e6fadb98e6f587bf] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 08:57:44.350632|::1| [trace] [1869c1cd3eeeac29e6fadb98e6f587bf] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 08:59:18.422878|::1| [trace] [28adf64659cb9672a8e2d11397cf840b] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 08:59:18.433917|::1| [trace] [28adf64659cb9672a8e2d11397cf840b] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 08:59:43.807401|::1| [trace] [2566289bdb903ba4b3cb6dd858d8c588] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 08:59:43.821906|::1| [trace] [2566289bdb903ba4b3cb6dd858d8c588] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 09:05:45.126882|::1| [trace] [c87be53a06192650c0efd10830f28462] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 09:05:45.185976|::1| [trace] [c87be53a06192650c0efd10830f28462] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 09:06:07.565844|::1| [trace] [a1af2eba77f6e3c38278320aaf406c85] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 09:06:07.581545|::1| [trace] [a1af2eba77f6e3c38278320aaf406c85] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 09:06:58.046147|::1| [trace] [778e87c40a946ba4ad44714f448955b7] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 09:06:58.060084|::1| [trace] [778e87c40a946ba4ad44714f448955b7] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 09:35:21.791222|::1| [trace] [8f72049cfd9d6ac800856bbbde9d0efd] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 09:35:21.806427|::1| [trace] [8f72049cfd9d6ac800856bbbde9d0efd] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 09:35:39.441553|::1| [trace] [78c6469d2fe399b67b0cf8dff2468f35] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 09:35:39.484591|::1| [trace] [78c6469d2fe399b67b0cf8dff2468f35] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 09:36:05.782779|::1| [trace] [c6e644c7c7469166d09fc6a9ed34198a] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 09:36:05.799595|::1| [trace] [c6e644c7c7469166d09fc6a9ed34198a] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'get_results', 'arr' => '[3,2,6,7,4]', 'insert' => '5', '_delete' => '4', 'num_delete' => '2', 'search' => '6', '_' => '1605931539675', )
+21/11/2020 09:44:37.875212|::1| [trace] [5d93efd5a6cfb751c11f0f0e02448c41] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 09:44:37.890574|::1| [trace] [5d93efd5a6cfb751c11f0f0e02448c41] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 09:44:57.494430|::1| [trace] [7d63cf8869eac474989f4f0dd1482aba] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 09:44:57.513331|::1| [trace] [7d63cf8869eac474989f4f0dd1482aba] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'get_results', 'arr' => '5,1,4,6,8', 'insert' => '2', '_delete' => '8', 'num_delete' => '2', 'search' => '5', '_' => '1605932078030', )
+21/11/2020 10:22:19.585516|::1| [trace] [194bf213e60495c79a6b16c4069bdb18] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 10:22:19.607765|::1| [trace] [194bf213e60495c79a6b16c4069bdb18] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'get_results', 'arr' => '5,1,4,6,8', 'insert' => '2', '_delete' => '8', 'num_delete' => '2', 'search' => '5', '_' => '1605932078031', )
+21/11/2020 10:28:46.700241|::1| [trace] [b93442bbcd7069b4cb974dddd1008902] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 10:28:46.721245|::1| [trace] [b93442bbcd7069b4cb974dddd1008902] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 10:29:10.427480|::1| [trace] [f8dfd94065047dca866c738c7d83fc8c] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 10:29:10.450521|::1| [trace] [f8dfd94065047dca866c738c7d83fc8c] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'get_results', 'arr' => '5,2,41,4,8', 'insert' => '6', '_delete' => '41', 'num_delete' => '2', 'search' => '5', '_' => '1605934727002', )
+21/11/2020 10:32:52.253690|::1| [trace] [f25347860b0637bcba528bdaca430b43] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 10:32:52.271631|::1| [trace] [f25347860b0637bcba528bdaca430b43] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 10:33:10.220952|::1| [trace] [6281031d0ed808e4c08c30b8d71b4b33] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 10:33:10.243701|::1| [trace] [6281031d0ed808e4c08c30b8d71b4b33] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'get_results', 'arr' => '2,5,4,7,4', 'insert' => '6', '_delete' => '4', 'num_delete' => '2', 'search' => '5', '_' => '1605934972475', )
+21/11/2020 10:42:15.514030|::1| [trace] [052f8fa6486a2bf0fedecb97936c248a] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 10:42:15.530385|::1| [trace] [052f8fa6486a2bf0fedecb97936c248a] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 10:42:36.448951|::1| [trace] [f7eef6ee20f596ef44dc004357bc5d11] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 10:42:36.467266|::1| [trace] [f7eef6ee20f596ef44dc004357bc5d11] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'get_results', 'arr' => '5,2,4', 'insert' => '6', '_delete' => '2', 'num_delete' => '1', 'search' => '4', '_' => '1605935535677', )
+21/11/2020 10:43:51.605967|::1| [trace] [d2eddb57126b932ffb8d5d14ffb7be8e] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 10:43:51.623716|::1| [trace] [d2eddb57126b932ffb8d5d14ffb7be8e] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 10:44:16.109934|::1| [trace] [6fdd951dbbc5814b498dd119efb12a20] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 10:44:16.127837|::1| [trace] [6fdd951dbbc5814b498dd119efb12a20] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'get_results', 'arr' => '1,4,2,6,4', 'insert' => '5', '_delete' => '4', 'num_delete' => '1', 'search' => '2', '_' => '1605935631737', )
+21/11/2020 10:47:03.148621|::1| [trace] [1fb991a006f1c9d3cc38165edebfbca6] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 10:47:03.164371|::1| [trace] [1fb991a006f1c9d3cc38165edebfbca6] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 10:47:24.078452|::1| [trace] [33349d5b8e6c8e891a50861aae3116fe] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 10:47:24.096184|::1| [trace] [33349d5b8e6c8e891a50861aae3116fe] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'get_results', 'arr' => '2,1,4', 'insert' => '3', '_delete' => '4', 'num_delete' => '0', 'search' => '2', '_' => '1605935823358', )
+21/11/2020 11:10:46.237313|::1| [trace] [fc615b89fd978c5c5b81a1b8e3f68293] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 11:10:46.253247|::1| [trace] [fc615b89fd978c5c5b81a1b8e3f68293] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 11:11:11.494108|::1| [trace] [0c6d2a7ca1078bddc41577276358b0a7] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 11:11:11.515604|::1| [trace] [0c6d2a7ca1078bddc41577276358b0a7] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'get_results', 'arr' => '2,3,4,5,6', 'insert' => '10', '_delete' => '3', 'num_delete' => '1', 'search' => '4', '_' => '1605937246408', )
+21/11/2020 11:13:05.113977|::1| [trace] [19db5111df80e6e75146f24574806756] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 11:13:05.140119|::1| [trace] [19db5111df80e6e75146f24574806756] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 11:22:31.739870|::1| [trace] [331dfd291001868cf8642f703bb29446] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 11:22:31.758147|::1| [trace] [331dfd291001868cf8642f703bb29446] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 11:22:57.555188|::1| [trace] [b237319866285123c8c8d6e30064aff3] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 11:22:57.572808|::1| [trace] [b237319866285123c8c8d6e30064aff3] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'get_results', 'arr' => '2,3,4', 'insert' => '5', '_delete' => '2', 'num_delete' => '1', 'search' => '2', '_' => '1605937951974', )
+21/11/2020 11:23:14.679451|::1| [trace] [2a955bef10686a2f1a4dc3666319d5ff] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 11:23:14.697446|::1| [trace] [2a955bef10686a2f1a4dc3666319d5ff] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 11:23:29.481034|::1| [trace] [2f02476a926a6751eac82cbf974dd528] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 11:23:29.495893|::1| [trace] [2f02476a926a6751eac82cbf974dd528] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'get_results', 'arr' => '2,1,4', 'insert' => '5', '_delete' => '1', 'num_delete' => '1', 'search' => '2', '_' => '1605937994832', )
+21/11/2020 11:24:46.858637|::1| [trace] [671eab6f74d5a949f78f8d2113fd952c] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 11:24:46.880846|::1| [trace] [671eab6f74d5a949f78f8d2113fd952c] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 11:25:07.011411|::1| [trace] [f5023c6c7c3c8f29bf29010ead094a96] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 11:25:07.030740|::1| [trace] [f5023c6c7c3c8f29bf29010ead094a96] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'get_results', 'arr' => '1,2,4,3,5', 'insert' => '0', '_delete' => '1', 'num_delete' => '1', 'search' => '3', '_' => '1605938086998', )
+21/11/2020 11:25:54.464696|::1| [trace] [f699b8787a6562e6c2694a9759161e65] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 11:25:54.477735|::1| [trace] [f699b8787a6562e6c2694a9759161e65] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 11:27:11.243081|::1| [trace] [dee922ae33a2c0e24a934ba02e121e16] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 11:27:11.259545|::1| [trace] [dee922ae33a2c0e24a934ba02e121e16] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 11:27:27.668234|::1| [trace] [9f2fcdb658bef3484d56c5d64b8d6f55] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 11:27:27.686121|::1| [trace] [9f2fcdb658bef3484d56c5d64b8d6f55] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'get_results', 'arr' => '2,3,4,6,5', 'insert' => '1', '_delete' => '6', 'num_delete' => '1', 'search' => '2', '_' => '1605938231364', )
+21/11/2020 11:33:11.862737|::1| [trace] [68039971b8b7c45f3a157c233f0856d0] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 11:33:11.876564|::1| [trace] [68039971b8b7c45f3a157c233f0856d0] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 11:33:56.323391|::1| [trace] [d1600324f01cc6bb92719c8b9291fc43] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 11:33:56.348057|::1| [trace] [d1600324f01cc6bb92719c8b9291fc43] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 11:34:30.001488|::1| [trace] [a80e1d540a38956b128cb65509624511] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 11:34:30.017872|::1| [trace] [a80e1d540a38956b128cb65509624511] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'get_results', 'arr' => '2,5,6,4,7', 'insert' => '3', '_delete' => '2', 'num_delete' => '1', 'search' => '5', '_' => '1605938636465', )
+21/11/2020 11:36:23.889075|::1| [trace] [1e0eb8845d4bb6f901286b3ded3e5498] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 11:36:23.926549|::1| [trace] [1e0eb8845d4bb6f901286b3ded3e5498] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 11:37:13.516230|::1| [trace] [63c9a3f2c77e1058ce43f6113189cda1] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 11:37:13.529031|::1| [trace] [63c9a3f2c77e1058ce43f6113189cda1] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 11:37:16.694602|::1| [trace] [5c2cb172d5b7ad3fcb5daaae3b78d160] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 11:37:16.706552|::1| [trace] [5c2cb172d5b7ad3fcb5daaae3b78d160] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 11:37:32.998565|::1| [trace] [62ade0880ccbff237f06028e619b04bd] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 11:37:33.012029|::1| [trace] [62ade0880ccbff237f06028e619b04bd] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 11:37:48.674289|::1| [trace] [a9e15dba36e6db70a41af8f86e379fdd] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 11:37:48.691211|::1| [trace] [a9e15dba36e6db70a41af8f86e379fdd] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'get_results', 'arr' => '2,1,4', 'insert' => '3', '_delete' => '4', 'num_delete' => '1', 'search' => '2', '_' => '1605938853142', )
+21/11/2020 11:41:58.544102|::1| [trace] [4e05c4d9fbf618dd0c8f265169e20c37] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 11:41:58.579960|::1| [trace] [4e05c4d9fbf618dd0c8f265169e20c37] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 11:49:04.730752|::1| [trace] [0690e3488225bf4398ae8f46c8802340] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 11:49:04.749433|::1| [trace] [0690e3488225bf4398ae8f46c8802340] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 11:50:17.345594|::1| [trace] [4f9fbcfc2666330185804fa4202846a9] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 11:50:17.361131|::1| [trace] [4f9fbcfc2666330185804fa4202846a9] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 11:50:47.391850|::1| [trace] [eec10c0e06f47abb1d3602bc4e63048f] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 11:50:47.452852|::1| [trace] [eec10c0e06f47abb1d3602bc4e63048f] action (114) include_once() : array ( 'getAll' => 'GETALL', )
+21/11/2020 11:50:50.134998|::1| [trace] [fb70a60bb259a256e449f4bcebe7c2b7] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 11:50:50.147070|::1| [trace] [fb70a60bb259a256e449f4bcebe7c2b7] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 13:41:02.856826|::1| [trace] [3beec086414cc5936c85ad48131a6811] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 13:41:02.873931|::1| [trace] [3beec086414cc5936c85ad48131a6811] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 13:41:05.610574|::1| [trace] [ee31416f0b5c2f20fab8a18c8c14eba8] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 13:41:05.628786|::1| [trace] [ee31416f0b5c2f20fab8a18c8c14eba8] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 13:45:50.704220|::1| [trace] [34881096c3fb884b316b720c36aaf475] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 13:45:50.716638|::1| [trace] [34881096c3fb884b316b720c36aaf475] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 13:46:09.117422|::1| [trace] [662a33cfc5c1040217dc6aa381c9b1fb] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 13:46:09.130605|::1| [trace] [662a33cfc5c1040217dc6aa381c9b1fb] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 13:46:23.873553|::1| [trace] [f4f09a5a4a179118e7adead5197d4733] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 13:46:23.883543|::1| [trace] [f4f09a5a4a179118e7adead5197d4733] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 13:47:02.299474|::1| [trace] [d4c14ee741f748cb184428460a4e7167] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 13:47:02.338802|::1| [trace] [d4c14ee741f748cb184428460a4e7167] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 13:52:18.553636|::1| [trace] [541674e945123f125dfb1e2bfb027c82] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 13:52:18.566376|::1| [trace] [541674e945123f125dfb1e2bfb027c82] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 13:52:21.295286|::1| [trace] [61eaceadf79a3086824c6cc832fbfa72] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 13:52:21.305727|::1| [trace] [61eaceadf79a3086824c6cc832fbfa72] action (114) include_once() : array ( 'application' => 'user', 'action' => 'get_all_id', '_' => '1605946938755', )
+21/11/2020 13:52:21.328635|::1| [trace] [61eaceadf79a3086824c6cc832fbfa72] database.class.inc (48) Database->query() : SELECT * FROM user
+21/11/2020 13:53:58.558070|::1| [trace] [823132785be3ae17d649dc6d0b32dc57] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 13:53:58.571567|::1| [trace] [823132785be3ae17d649dc6d0b32dc57] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 13:53:59.595005|::1| [trace] [3ae667e1e0bcd1caa14409dd85e1c9c4] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 13:53:59.633697|::1| [trace] [3ae667e1e0bcd1caa14409dd85e1c9c4] action (114) include_once() : array ( 'application' => 'user', 'action' => 'get_all_id', '_' => '1605947038692', )
+21/11/2020 13:53:59.645750|::1| [trace] [3ae667e1e0bcd1caa14409dd85e1c9c4] database.class.inc (48) Database->query() : SELECT * FROM user
+21/11/2020 13:55:56.650770|::1| [trace] [2aecfa9f37b0c5f225b7ec118aad23c0] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 13:55:56.690108|::1| [trace] [2aecfa9f37b0c5f225b7ec118aad23c0] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 13:55:59.065474|::1| [trace] [3e5580dc0b98072ef003213cbbbc9b3f] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 13:55:59.076018|::1| [trace] [3e5580dc0b98072ef003213cbbbc9b3f] action (114) include_once() : array ( 'application' => 'user', 'action' => 'get_all_id', '_' => '1605947156892', )
+21/11/2020 13:55:59.086985|::1| [trace] [3e5580dc0b98072ef003213cbbbc9b3f] database.class.inc (48) Database->query() : SELECT * FROM user
+21/11/2020 13:57:08.675304|::1| [trace] [d7d0049051d21d156a567cf1a29302b2] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 13:57:08.691653|::1| [trace] [d7d0049051d21d156a567cf1a29302b2] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 13:57:10.482871|::1| [trace] [8eb9f64847a769400ffdcae08db85d40] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 13:57:10.511024|::1| [trace] [8eb9f64847a769400ffdcae08db85d40] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'get_all_id', '_' => '1605947228810', )
+21/11/2020 13:57:10.520919|::1| [trace] [8eb9f64847a769400ffdcae08db85d40] database.class.inc (48) Database->query() : SELECT * FROM test
+21/11/2020 13:57:46.054469|::1| [trace] [5c0a63e81a7f8b90806c003ce4749216] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 13:57:46.065779|::1| [trace] [5c0a63e81a7f8b90806c003ce4749216] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 13:58:44.081170|::1| [trace] [5d78d6acabd46395d42eec4b0efc8cc8] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 13:58:44.109999|::1| [trace] [5d78d6acabd46395d42eec4b0efc8cc8] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 13:59:09.988297|::1| [trace] [00256f21ef9d71b2dc7dac01f9a6d923] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 13:59:10.008622|::1| [trace] [00256f21ef9d71b2dc7dac01f9a6d923] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:00:07.441786|::1| [trace] [f66b35c022f0d380345374f00db13c79] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:00:07.454319|::1| [trace] [f66b35c022f0d380345374f00db13c79] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:00:36.055902|::1| [trace] [5a164f76197be95399bc73914f56fc84] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:00:36.088463|::1| [trace] [5a164f76197be95399bc73914f56fc84] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'insert', 'name' => 'naveen', 'email' => 'naveen@gmail.com', 'password' => 'N@veen pr@nesh28', '_' => '1605947407565', )
+21/11/2020 14:00:36.102793|::1| [trace] [5a164f76197be95399bc73914f56fc84] mbasics.class.inc (48) Database->query() : INSERT INTO test (`name`, `email`, `password`) VALUES('naveen', 'naveen@gmail.com', 'N@veen pr@nesh28')
+21/11/2020 14:00:36.165214|::1| [error] [5a164f76197be95399bc73914f56fc84] mbasics.class.inc (52) Database->query() : Error in query. INSERT INTO test (`name`, `email`, `password`) VALUES('naveen', 'naveen@gmail.com', 'N@veen pr@nesh28')  . Details
+21/11/2020 14:00:36.173516|::1| [trace] [5a164f76197be95399bc73914f56fc84] database.class.inc (48) Database->query() : SHOW FULL PROCESSLIST
+21/11/2020 14:00:36.180140|::1| [error] [5a164f76197be95399bc73914f56fc84] mbasics.class.inc (58) Database->query() : Error in query INSERT INTO test (`name`, `email`, `password`) VALUES('naveen', 'naveen@gmail.com', 'N@veen pr@nesh28')  Catch Error at the time of issue array ( 'Id' => '1', 'User' => 'system user', 'Host' => '', 'db' => NULL, 'Command' => 'Daemon', 'Time' => NULL, 'State' => 'InnoDB purge coordinator', 'Info' => NULL, 'Progress' => '0.000', )
+21/11/2020 14:01:51.619505|::1| [trace] [f36aedc2d895469ccfc875e0ac0c94bc] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:01:51.659280|::1| [trace] [f36aedc2d895469ccfc875e0ac0c94bc] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:02:08.749373|::1| [trace] [3300ec792ec0b1428d64f38a73c457c3] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:02:08.762873|::1| [trace] [3300ec792ec0b1428d64f38a73c457c3] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:03:01.409167|::1| [trace] [3a5cc0438f80fcb767be6455a27e745e] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:03:01.425240|::1| [trace] [3a5cc0438f80fcb767be6455a27e745e] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'insert', 'name' => 'k', 'email' => 'naveenk@gmail.com', 'password' => 'N@veen pr@nesh28', '_' => '1605947528900', )
+21/11/2020 14:03:01.448967|::1| [trace] [3a5cc0438f80fcb767be6455a27e745e] mbasics.class.inc (48) Database->query() : INSERT INTO test (`name`, `email`, `password`) VALUES('k', 'naveenk@gmail.com', '15bccffa15fd099037a4ea108ba83f0b')
+21/11/2020 14:03:01.459397|::1| [error] [3a5cc0438f80fcb767be6455a27e745e] mbasics.class.inc (52) Database->query() : Error in query. INSERT INTO test (`name`, `email`, `password`) VALUES('k', 'naveenk@gmail.com', '15bccffa15fd099037a4ea108ba83f0b')  . Details
+21/11/2020 14:03:01.466975|::1| [trace] [3a5cc0438f80fcb767be6455a27e745e] database.class.inc (48) Database->query() : SHOW FULL PROCESSLIST
+21/11/2020 14:03:01.478801|::1| [error] [3a5cc0438f80fcb767be6455a27e745e] mbasics.class.inc (58) Database->query() : Error in query INSERT INTO test (`name`, `email`, `password`) VALUES('k', 'naveenk@gmail.com', '15bccffa15fd099037a4ea108ba83f0b')  Catch Error at the time of issue array ( 'Id' => '1', 'User' => 'system user', 'Host' => '', 'db' => NULL, 'Command' => 'Daemon', 'Time' => NULL, 'State' => 'InnoDB purge coordinator', 'Info' => NULL, 'Progress' => '0.000', )
+21/11/2020 14:03:11.140800|::1| [trace] [01564dfda4a88758bb5cbb7618a27367] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:03:11.167402|::1| [trace] [01564dfda4a88758bb5cbb7618a27367] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'get_all_id', '_' => '1605947528901', )
+21/11/2020 14:03:11.177285|::1| [trace] [01564dfda4a88758bb5cbb7618a27367] database.class.inc (48) Database->query() : SELECT * FROM test
+21/11/2020 14:04:59.531069|::1| [trace] [cc8892fb260281b67ae089aad10b642d] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:04:59.543764|::1| [trace] [cc8892fb260281b67ae089aad10b642d] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:05:14.375650|::1| [trace] [6704fe61ae54cb104305a3e53ba9d792] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:05:14.390819|::1| [trace] [6704fe61ae54cb104305a3e53ba9d792] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'insert', 'name' => 'naveen', 'email' => 'naveenkk@gmail.com', 'password' => 'N@veen pr@nesh28', '_' => '1605947699646', )
+21/11/2020 14:05:14.408673|::1| [trace] [6704fe61ae54cb104305a3e53ba9d792] mbasics.class.inc (48) Database->query() : INSERT INTO test (`userName`, `email`, `password`) VALUES('naveen', 'naveenkk@gmail.com', '15bccffa15fd099037a4ea108ba83f0b')
+21/11/2020 14:05:16.787082|::1| [trace] [b84bf50468596f8bb09f92e09269a9ac] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:05:16.816349|::1| [trace] [b84bf50468596f8bb09f92e09269a9ac] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'get_all_id', '_' => '1605947699647', )
+21/11/2020 14:05:16.826442|::1| [trace] [b84bf50468596f8bb09f92e09269a9ac] database.class.inc (48) Database->query() : SELECT * FROM test
+21/11/2020 14:08:14.724056|::1| [trace] [146ae5c14ae5f3fa2a38edef3edbd2fe] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:08:14.745172|::1| [trace] [146ae5c14ae5f3fa2a38edef3edbd2fe] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:09:46.614783|::1| [trace] [43c378df3517df17aae47202e17ff410] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:09:46.629046|::1| [trace] [43c378df3517df17aae47202e17ff410] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:10:30.477874|::1| [trace] [fe612a24a02fbc705b40eca3df41457c] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:10:30.499233|::1| [trace] [fe612a24a02fbc705b40eca3df41457c] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'edit_user', 'id' => 'undefined', 'name' => 'undefined', 'email' => 'naveenkk@gmail.com', 'o_password' => 'N@veen pr@nesh28', 'n_password' => 'N@veen pr@nesh28', '_' => '1605947986747', )
+21/11/2020 14:11:14.381040|::1| [trace] [e40e86c810407ebd19e7642b184731fb] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:11:14.392908|::1| [trace] [e40e86c810407ebd19e7642b184731fb] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:12:02.779911|::1| [trace] [df62efc923216dcf068dfcc8caadb4f7] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:12:02.797667|::1| [trace] [df62efc923216dcf068dfcc8caadb4f7] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:12:33.047441|::1| [trace] [8f7049f6dc4a43044e10c13178b3c531] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:12:33.068396|::1| [trace] [8f7049f6dc4a43044e10c13178b3c531] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'edit_user', 'id' => 'undefined', 'name' => 'undefined', 'email' => 'naveenpranesh28@gmail.com', 'o_password' => 'N@veen pr@nesh28', 'n_password' => 'N@veen pr@nesh28', '_' => '1605948122930', )
+21/11/2020 14:13:13.963593|::1| [trace] [a32c93c7324dea6a64885e3d70112b21] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:13:13.977349|::1| [trace] [a32c93c7324dea6a64885e3d70112b21] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:14:08.084618|::1| [trace] [77ead86ff7cc7e69de7d1fd07fbb3526] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:14:08.110511|::1| [trace] [77ead86ff7cc7e69de7d1fd07fbb3526] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'edit_user', 'name' => 'undefined', 'email' => 'naveenpranesh28@gmail.com', 'o_password' => 'N@veen pr@nesh28', 'n_password' => 'N@veen pr@nesh28', '_' => '1605948194100', )
+21/11/2020 14:14:54.984761|::1| [trace] [982548c02246801ebad6871b531c35bc] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:14:55.000962|::1| [trace] [982548c02246801ebad6871b531c35bc] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:15:34.832371|::1| [trace] [4cb28af13d988265920b7fc3d8ae5eef] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:15:34.851787|::1| [trace] [4cb28af13d988265920b7fc3d8ae5eef] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'edit_user', 'name' => 'naveen kumar 55', 'email' => 'naveenpranesh28@gmail.com', 'o_password' => 'N@veen pr@nesh28', 'n_password' => 'N@veen pr@nesh28', '_' => '1605948295105', )
+21/11/2020 14:15:55.281215|::1| [trace] [386e282c032e69b60d54c971cfa1b680] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:15:55.294775|::1| [trace] [386e282c032e69b60d54c971cfa1b680] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:16:39.654103|::1| [trace] [77e55f938a29d08ebdddefc6c2bf256a] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:16:39.670921|::1| [trace] [77e55f938a29d08ebdddefc6c2bf256a] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:17:06.240004|::1| [trace] [4faa3bbc0b6913490f0f6f94e1efc388] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:17:06.262136|::1| [trace] [4faa3bbc0b6913490f0f6f94e1efc388] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'insert', 'name' => 'naveen123', 'email' => 'naveen123@gmail.com', 'password' => 'naveenpranesh', '_' => '1605948399807', )
+21/11/2020 14:17:06.275579|::1| [trace] [4faa3bbc0b6913490f0f6f94e1efc388] mbasics.class.inc (48) Database->query() : INSERT INTO test (`userName`, `email`, `password`) VALUES('naveen123', 'naveen123@gmail.com', '39ddefcabc088a98a290e92ade641ba0')
+21/11/2020 14:17:33.890332|::1| [trace] [e7e16f74270a4df4f68298572ca5ccd5] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:17:33.912714|::1| [trace] [e7e16f74270a4df4f68298572ca5ccd5] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'edit_user', 'name' => 'naveen1234', 'email' => 'naveen123@gmail.com', 'o_password' => 'naveenpranesh', 'n_password' => 'naveenpranesh', '_' => '1605948399808', )
+21/11/2020 14:19:01.517600|::1| [trace] [0cef44e4334d0cc53e0e9f3b9b865956] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:19:01.542290|::1| [trace] [0cef44e4334d0cc53e0e9f3b9b865956] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:19:07.527525|::1| [trace] [1d41a6422d485a1b89b99085cd891729] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:19:07.539074|::1| [trace] [1d41a6422d485a1b89b99085cd891729] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'get_all_id', '_' => '1605948541659', )
+21/11/2020 14:19:07.553142|::1| [trace] [1d41a6422d485a1b89b99085cd891729] database.class.inc (48) Database->query() : SELECT * FROM test
+21/11/2020 14:19:39.679610|::1| [trace] [f2f464bde340f1bb87f2df595f869e6f] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:19:39.725507|::1| [trace] [f2f464bde340f1bb87f2df595f869e6f] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'edit_user', 'name' => 'naveen123@gmail.com', 'email' => 'naveen123@gmail.com', 'o_password' => 'naveenpranesh', 'n_password' => 'naveenpranesh', '_' => '1605948541660', )
+21/11/2020 14:19:39.737412|::1| [trace] [f2f464bde340f1bb87f2df595f869e6f] mbasics.class.inc (48) Database->query() : UPDATE test SET `name`='naveen123@gmail.com', `email`='naveen123@gmail.com', `password`='naveenpranesh' WHERE `email`='naveen123@gmail.com' AND  `password`='naveenpranesh'
+21/11/2020 14:19:39.746193|::1| [error] [f2f464bde340f1bb87f2df595f869e6f] mbasics.class.inc (52) Database->query() : Error in query. UPDATE test SET `name`='naveen123@gmail.com', `email`='naveen123@gmail.com', `password`='naveenpranesh' WHERE `email`='naveen123@gmail.com' AND  `password`='naveenpranesh' . Details
+21/11/2020 14:19:39.753606|::1| [trace] [f2f464bde340f1bb87f2df595f869e6f] database.class.inc (48) Database->query() : SHOW FULL PROCESSLIST
+21/11/2020 14:19:39.764693|::1| [error] [f2f464bde340f1bb87f2df595f869e6f] mbasics.class.inc (58) Database->query() : Error in query UPDATE test SET `name`='naveen123@gmail.com', `email`='naveen123@gmail.com', `password`='naveenpranesh' WHERE `email`='naveen123@gmail.com' AND  `password`='naveenpranesh' Catch Error at the time of issue array ( 'Id' => '1', 'User' => 'system user', 'Host' => '', 'db' => NULL, 'Command' => 'Daemon', 'Time' => NULL, 'State' => 'InnoDB purge coordinator', 'Info' => NULL, 'Progress' => '0.000', )
+21/11/2020 14:19:43.068336|::1| [trace] [6d254a657008477d12eab93477a4d12e] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:19:43.092767|::1| [trace] [6d254a657008477d12eab93477a4d12e] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'get_all_id', '_' => '1605948541661', )
+21/11/2020 14:19:43.102432|::1| [trace] [6d254a657008477d12eab93477a4d12e] database.class.inc (48) Database->query() : SELECT * FROM test
+21/11/2020 14:19:44.539211|::1| [trace] [e33ef7e9fa838d958d260e6cdbe42d81] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:19:44.549443|::1| [trace] [e33ef7e9fa838d958d260e6cdbe42d81] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'get_all_id', '_' => '1605948541662', )
+21/11/2020 14:19:44.559726|::1| [trace] [e33ef7e9fa838d958d260e6cdbe42d81] database.class.inc (48) Database->query() : SELECT * FROM test
+21/11/2020 14:21:03.865845|::1| [trace] [00ea5d706ec721a0c93945e891d1b230] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:21:03.880821|::1| [trace] [00ea5d706ec721a0c93945e891d1b230] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:21:05.184664|::1| [trace] [6c655af421b7bee4cb2c1d2de94ede49] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:21:05.196099|::1| [trace] [6c655af421b7bee4cb2c1d2de94ede49] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'get_all_id', '_' => '1605948664009', )
+21/11/2020 14:21:05.206219|::1| [trace] [6c655af421b7bee4cb2c1d2de94ede49] database.class.inc (48) Database->query() : SELECT * FROM test
+21/11/2020 14:21:30.300597|::1| [trace] [848c4904f969bce4fea19228b0e59056] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:21:30.319720|::1| [trace] [848c4904f969bce4fea19228b0e59056] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'edit_user', 'name' => 'naveen123@gmail.com', 'email' => 'naveen123@gmail.com', 'o_password' => 'naveenpranesh', 'n_password' => 'naveenpranesh', '_' => '1605948664010', )
+21/11/2020 14:21:30.341393|::1| [trace] [848c4904f969bce4fea19228b0e59056] mbasics.class.inc (48) Database->query() : UPDATE test SET `name`='naveen123@gmail.com', `email`='naveen123@gmail.com', `password`='39ddefcabc088a98a290e92ade641ba0' WHERE `email`='naveen123@gmail.com' AND  `password`='39ddefcabc088a98a290e92ade641ba0'
+21/11/2020 14:21:30.349469|::1| [error] [848c4904f969bce4fea19228b0e59056] mbasics.class.inc (52) Database->query() : Error in query. UPDATE test SET `name`='naveen123@gmail.com', `email`='naveen123@gmail.com', `password`='39ddefcabc088a98a290e92ade641ba0' WHERE `email`='naveen123@gmail.com' AND  `password`='39ddefcabc088a98a290e92ade641ba0' . Details
+21/11/2020 14:21:30.358912|::1| [trace] [848c4904f969bce4fea19228b0e59056] database.class.inc (48) Database->query() : SHOW FULL PROCESSLIST
+21/11/2020 14:21:30.367063|::1| [error] [848c4904f969bce4fea19228b0e59056] mbasics.class.inc (58) Database->query() : Error in query UPDATE test SET `name`='naveen123@gmail.com', `email`='naveen123@gmail.com', `password`='39ddefcabc088a98a290e92ade641ba0' WHERE `email`='naveen123@gmail.com' AND  `password`='39ddefcabc088a98a290e92ade641ba0' Catch Error at the time of issue array ( 'Id' => '1', 'User' => 'system user', 'Host' => '', 'db' => NULL, 'Command' => 'Daemon', 'Time' => NULL, 'State' => 'InnoDB purge coordinator', 'Info' => NULL, 'Progress' => '0.000', )
+21/11/2020 14:21:34.904141|::1| [trace] [bde7457858ee0ffc1c6f9f5746c7a9c7] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:21:34.917366|::1| [trace] [bde7457858ee0ffc1c6f9f5746c7a9c7] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'get_all_id', '_' => '1605948664011', )
+21/11/2020 14:21:34.927854|::1| [trace] [bde7457858ee0ffc1c6f9f5746c7a9c7] database.class.inc (48) Database->query() : SELECT * FROM test
+21/11/2020 14:21:36.052016|::1| [trace] [42144486f1775b4fbf30d770952ffd36] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:21:36.062709|::1| [trace] [42144486f1775b4fbf30d770952ffd36] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'get_all_id', '_' => '1605948664012', )
+21/11/2020 14:21:36.073210|::1| [trace] [42144486f1775b4fbf30d770952ffd36] database.class.inc (48) Database->query() : SELECT * FROM test
+21/11/2020 14:21:36.540400|::1| [trace] [f1b313f017c71441ee95133a8f57eb1b] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:21:36.570576|::1| [trace] [f1b313f017c71441ee95133a8f57eb1b] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'get_all_id', '_' => '1605948664013', )
+21/11/2020 14:21:36.580569|::1| [trace] [f1b313f017c71441ee95133a8f57eb1b] database.class.inc (48) Database->query() : SELECT * FROM test
+21/11/2020 14:21:36.802078|::1| [trace] [15972ff00aeb4738070f02b53ab15b44] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:21:36.836246|::1| [trace] [15972ff00aeb4738070f02b53ab15b44] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'get_all_id', '_' => '1605948664014', )
+21/11/2020 14:21:36.846251|::1| [trace] [15972ff00aeb4738070f02b53ab15b44] database.class.inc (48) Database->query() : SELECT * FROM test
+21/11/2020 14:23:08.610310|::1| [trace] [6dc02d4b54af8378f059a52a1675a51c] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:23:08.643376|::1| [trace] [6dc02d4b54af8378f059a52a1675a51c] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:23:29.449776|::1| [trace] [2c57a74f67627804d517ea9e5214dda6] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:23:29.471648|::1| [trace] [2c57a74f67627804d517ea9e5214dda6] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'edit_user', 'name' => 'naveen123@gmail.com', 'email' => 'naveen123@gmail.com', 'o_password' => 'naveenpranesh', 'n_password' => 'naveen123@gmail.com', '_' => '1605948788769', )
+21/11/2020 14:23:29.488449|::1| [trace] [2c57a74f67627804d517ea9e5214dda6] mbasics.class.inc (48) Database->query() : UPDATE test SET `userName`='naveen123@gmail.com', `email`='naveen123@gmail.com', `password`='7ce543a91931f4f155823867e1290a15' WHERE `email`='naveen123@gmail.com' AND  `password`='39ddefcabc088a98a290e92ade641ba0'
+21/11/2020 14:23:31.896955|::1| [trace] [53445870c259e8eb45a9e9baa7ae561e] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:23:31.907594|::1| [trace] [53445870c259e8eb45a9e9baa7ae561e] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'get_all_id', '_' => '1605948788770', )
+21/11/2020 14:23:31.917135|::1| [trace] [53445870c259e8eb45a9e9baa7ae561e] database.class.inc (48) Database->query() : SELECT * FROM test
+21/11/2020 14:25:06.465982|::1| [trace] [9ce70262281971eae894041564ef3eea] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:25:06.480287|::1| [trace] [9ce70262281971eae894041564ef3eea] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:25:09.815221|::1| [trace] [cc5c331d1875323f4f6301ce34a89982] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:25:09.832135|::1| [trace] [cc5c331d1875323f4f6301ce34a89982] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'delete_user', 'email' => 'naveen123@gmail.com', '_' => '1605948906612', )
+21/11/2020 14:25:09.844242|::1| [trace] [cc5c331d1875323f4f6301ce34a89982] mbasics.class.inc (48) Database->query() : Delete from  test WHERE `email`=''
+21/11/2020 14:25:12.119955|::1| [trace] [50b966e4524d3d296bda60b5aa0081cc] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:25:12.129529|::1| [trace] [50b966e4524d3d296bda60b5aa0081cc] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'get_all_id', '_' => '1605948906613', )
+21/11/2020 14:25:12.137850|::1| [trace] [50b966e4524d3d296bda60b5aa0081cc] database.class.inc (48) Database->query() : SELECT * FROM test
+21/11/2020 14:26:07.141324|::1| [trace] [3ac200149588e51e158a7d04b165d105] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:26:07.155767|::1| [trace] [3ac200149588e51e158a7d04b165d105] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:26:19.180881|::1| [trace] [2a2551821acc9e795be2df537b75595c] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:26:19.200992|::1| [trace] [2a2551821acc9e795be2df537b75595c] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'delete_user', 'email' => 'navee123@gmail.com', '_' => '1605948967292', )
+21/11/2020 14:26:19.215293|::1| [trace] [2a2551821acc9e795be2df537b75595c] mbasics.class.inc (48) Database->query() : Delete from  test WHERE `email`='navee123@gmail.com'
+21/11/2020 14:26:21.082508|::1| [trace] [0293d5dd08f904afdc6dfab8af09bde0] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:26:21.093039|::1| [trace] [0293d5dd08f904afdc6dfab8af09bde0] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'get_all_id', '_' => '1605948967293', )
+21/11/2020 14:26:21.103233|::1| [trace] [0293d5dd08f904afdc6dfab8af09bde0] database.class.inc (48) Database->query() : SELECT * FROM test
+21/11/2020 14:26:36.353398|::1| [trace] [34d13d6ca8c3b726a54c562ce97de573] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:26:36.366835|::1| [trace] [34d13d6ca8c3b726a54c562ce97de573] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:26:37.497731|::1| [trace] [c6ce101528ab3dc1ac917a9c23a9ec55] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:26:37.511591|::1| [trace] [c6ce101528ab3dc1ac917a9c23a9ec55] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'get_all_id', '_' => '1605948996472', )
+21/11/2020 14:26:37.521580|::1| [trace] [c6ce101528ab3dc1ac917a9c23a9ec55] database.class.inc (48) Database->query() : SELECT * FROM test
+21/11/2020 14:26:49.094408|::1| [trace] [9ade2649cf72ff3751f42190c66d92c3] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:26:49.115973|::1| [trace] [9ade2649cf72ff3751f42190c66d92c3] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'delete_user', 'email' => 'naveen123@gmail.com', '_' => '1605948996473', )
+21/11/2020 14:26:49.131119|::1| [trace] [9ade2649cf72ff3751f42190c66d92c3] mbasics.class.inc (48) Database->query() : Delete from  test WHERE `email`='naveen123@gmail.com'
+21/11/2020 14:26:51.298398|::1| [trace] [19abd23b129defad5bcc7b7822787bed] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:26:51.309094|::1| [trace] [19abd23b129defad5bcc7b7822787bed] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'get_all_id', '_' => '1605948996474', )
+21/11/2020 14:26:51.318846|::1| [trace] [19abd23b129defad5bcc7b7822787bed] database.class.inc (48) Database->query() : SELECT * FROM test
+21/11/2020 14:27:09.092921|::1| [trace] [e30c2fc21f4af18762777b9031917064] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:27:09.103888|::1| [trace] [e30c2fc21f4af18762777b9031917064] action (114) include_once() : array ( 'application' => 'user', 'action' => 'get_id', 'id' => 'undefined', '_' => '1605948996475', )
+21/11/2020 14:27:09.115200|::1| [trace] [e30c2fc21f4af18762777b9031917064] database.class.inc (48) Database->query() : SELECT * FROM user WHERE id = 'undefined'
+21/11/2020 14:31:36.844888|::1| [trace] [0c42f6382570ab469c06a5edea48abec] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:31:36.858391|::1| [trace] [0c42f6382570ab469c06a5edea48abec] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:31:40.999602|::1| [trace] [0e4b1ba69b92f31b2f6e573de588adc6] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:31:41.019804|::1| [trace] [0e4b1ba69b92f31b2f6e573de588adc6] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'get_all_id', '_' => '1605949297028', )
+21/11/2020 14:31:41.029122|::1| [trace] [0e4b1ba69b92f31b2f6e573de588adc6] database.class.inc (48) Database->query() : SELECT * FROM test
+21/11/2020 14:31:45.788959|::1| [trace] [4d6fe8c3ffde37a6b3a942251884572e] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:31:45.799624|::1| [trace] [4d6fe8c3ffde37a6b3a942251884572e] action (114) include_once() : array ( 'application' => 'user', 'action' => 'get_id', 'id' => 'undefined', '_' => '1605949297029', )
+21/11/2020 14:31:45.810657|::1| [trace] [4d6fe8c3ffde37a6b3a942251884572e] database.class.inc (48) Database->query() : SELECT * FROM user WHERE id = 'undefined'
+21/11/2020 14:32:11.247138|::1| [trace] [bd63d189119ec5d9b606bec45ff40013] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:32:11.269735|::1| [trace] [bd63d189119ec5d9b606bec45ff40013] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:32:15.391890|::1| [trace] [56f0bfb707c2c4623801e28a0d5fb3c0] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:32:15.424190|::1| [trace] [56f0bfb707c2c4623801e28a0d5fb3c0] action (114) include_once() : array ( 'application' => 'user', 'action' => 'get_id', 'id' => 'undefined', '_' => '1605949331370', )
+21/11/2020 14:32:15.435131|::1| [trace] [56f0bfb707c2c4623801e28a0d5fb3c0] database.class.inc (48) Database->query() : SELECT * FROM user WHERE id = 'undefined'
+21/11/2020 14:33:14.727735|::1| [trace] [f3c038a32d8a7382ece8a59f9992c62b] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:33:14.742985|::1| [trace] [f3c038a32d8a7382ece8a59f9992c62b] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:33:17.589744|::1| [trace] [3c430cc098d4a398344c9d1f26d493fd] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:33:17.624639|::1| [trace] [3c430cc098d4a398344c9d1f26d493fd] action (114) include_once() : array ( 'application' => 'user', 'action' => 'get_id', 'id' => 'undefined', '_' => '1605949394855', )
+21/11/2020 14:33:17.634426|::1| [trace] [3c430cc098d4a398344c9d1f26d493fd] database.class.inc (48) Database->query() : SELECT * FROM user WHERE id = 'undefined'
+21/11/2020 14:33:45.197163|::1| [trace] [fc896f6157dad25d5042056975350018] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:33:45.212883|::1| [trace] [fc896f6157dad25d5042056975350018] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:33:47.748248|::1| [trace] [e749238671b69bb2a707dbb018821ddc] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:33:47.762763|::1| [trace] [e749238671b69bb2a707dbb018821ddc] action (114) include_once() : array ( 'application' => 'user', 'action' => 'get_id', 'id' => '22', '_' => '1605949425344', )
+21/11/2020 14:33:47.772392|::1| [trace] [e749238671b69bb2a707dbb018821ddc] database.class.inc (48) Database->query() : SELECT * FROM user WHERE id = '22'
+21/11/2020 14:34:27.728116|::1| [trace] [5fbfb6178eb57e1d19c191ff3ea3d77b] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:34:27.743015|::1| [trace] [5fbfb6178eb57e1d19c191ff3ea3d77b] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:34:30.412978|::1| [trace] [d1d3db1f8a58c8770eead94a8cfccd93] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:34:30.426053|::1| [trace] [d1d3db1f8a58c8770eead94a8cfccd93] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'get_id', 'id' => '22', '_' => '1605949467865', )
+21/11/2020 14:34:30.436151|::1| [trace] [d1d3db1f8a58c8770eead94a8cfccd93] database.class.inc (48) Database->query() : SELECT * FROM test WHERE id = '22'
+21/11/2020 14:34:53.013299|::1| [trace] [c633bba0ef2f99b78a4d550d3d0afeb9] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:34:53.025561|::1| [trace] [c633bba0ef2f99b78a4d550d3d0afeb9] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:34:55.833770|::1| [trace] [d648a2377cb254763a14b2dee19d213d] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:34:55.847033|::1| [trace] [d648a2377cb254763a14b2dee19d213d] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'get_id', 'id' => '22', '_' => '1605949493127', )
+21/11/2020 14:34:55.856847|::1| [trace] [d648a2377cb254763a14b2dee19d213d] database.class.inc (48) Database->query() : SELECT * FROM test WHERE id = '22'
+21/11/2020 14:35:12.227190|::1| [trace] [8bf2381f625acb540c5f0c88bdac14ca] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:35:12.239695|::1| [trace] [8bf2381f625acb540c5f0c88bdac14ca] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:35:14.925717|::1| [trace] [1323c5e688cd2e71e533577b6cfc9490] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:35:14.949620|::1| [trace] [1323c5e688cd2e71e533577b6cfc9490] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'get_id', 'id' => '22', '_' => '1605949512347', )
+21/11/2020 14:35:14.959604|::1| [trace] [1323c5e688cd2e71e533577b6cfc9490] database.class.inc (48) Database->query() : SELECT * FROM test WHERE id = '22'
+21/11/2020 14:37:00.079665|::1| [trace] [d51b39e9ac95450d3f0caacbce4994c5] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:37:00.094332|::1| [trace] [d51b39e9ac95450d3f0caacbce4994c5] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'get_id', 'id' => '22', '_' => '1605949512348', )
+21/11/2020 14:37:00.108764|::1| [trace] [d51b39e9ac95450d3f0caacbce4994c5] database.class.inc (48) Database->query() : SELECT * FROM test WHERE id = '22'
+21/11/2020 14:37:08.782222|::1| [trace] [d6bb9a618a4749191adbb4e67ee3a0f2] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:37:08.795002|::1| [trace] [d6bb9a618a4749191adbb4e67ee3a0f2] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:37:14.197019|::1| [trace] [7a2f0023a9154eb66184a6ac90ac1bec] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:37:14.208731|::1| [trace] [7a2f0023a9154eb66184a6ac90ac1bec] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'get_id', 'id' => '22', '_' => '1605949628929', )
+21/11/2020 14:37:14.220801|::1| [trace] [7a2f0023a9154eb66184a6ac90ac1bec] database.class.inc (48) Database->query() : SELECT * FROM test WHERE id = '22'
+21/11/2020 14:37:41.255490|::1| [trace] [2f96af0d9e3597ce4caf38c32e3b51d7] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:37:41.271879|::1| [trace] [2f96af0d9e3597ce4caf38c32e3b51d7] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:37:44.025113|::1| [trace] [6a0f2aecfbdce18990efd833a45a6251] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:37:44.058005|::1| [trace] [6a0f2aecfbdce18990efd833a45a6251] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'get_id', 'id' => '22', '_' => '1605949661378', )
+21/11/2020 14:37:44.067312|::1| [trace] [6a0f2aecfbdce18990efd833a45a6251] database.class.inc (48) Database->query() : SELECT * FROM test WHERE id = '22'
+21/11/2020 14:37:55.067831|::1| [trace] [892c4bdd6689116fa4a740383e9a350c] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:37:55.080535|::1| [trace] [892c4bdd6689116fa4a740383e9a350c] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:37:57.934587|::1| [trace] [0780b3eafbf85f53d23bc28b9be1165f] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:37:57.947884|::1| [trace] [0780b3eafbf85f53d23bc28b9be1165f] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'get_id', 'id' => '22', '_' => '1605949675184', )
+21/11/2020 14:37:57.959779|::1| [trace] [0780b3eafbf85f53d23bc28b9be1165f] database.class.inc (48) Database->query() : SELECT * FROM test WHERE id = '22'
+21/11/2020 14:38:14.645205|::1| [trace] [0e976db799f7cf04b5a95e11f1df964c] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:38:14.719343|::1| [trace] [0e976db799f7cf04b5a95e11f1df964c] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:38:17.840415|::1| [trace] [3682e96a1c7062a2b03a8c08094462db] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:38:17.874922|::1| [trace] [3682e96a1c7062a2b03a8c08094462db] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'get_id', 'id' => '22', '_' => '1605949694869', )
+21/11/2020 14:38:17.884675|::1| [trace] [3682e96a1c7062a2b03a8c08094462db] database.class.inc (48) Database->query() : SELECT * FROM test WHERE id = '22'
+21/11/2020 14:38:24.639472|::1| [trace] [323523a551323e379fc8827b083783d7] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:38:24.660908|::1| [trace] [323523a551323e379fc8827b083783d7] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'get_all_id', '_' => '1605949694870', )
+21/11/2020 14:38:24.670696|::1| [trace] [323523a551323e379fc8827b083783d7] database.class.inc (48) Database->query() : SELECT * FROM test
+21/11/2020 14:41:06.688292|::1| [trace] [75859a8428274aaf977d4bf250312dd5] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:41:06.723949|::1| [trace] [75859a8428274aaf977d4bf250312dd5] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:41:13.950202|::1| [trace] [15a5c31416e75db48e7e1d10ddc631f4] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:41:13.981347|::1| [trace] [15a5c31416e75db48e7e1d10ddc631f4] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:41:34.274380|::1| [trace] [2d26999c77f95918cc78b07a09aa20db] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:41:34.286967|::1| [trace] [2d26999c77f95918cc78b07a09aa20db] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:41:36.230812|::1| [trace] [32bb81a47acf746b7901391829f3ad83] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:41:36.241064|::1| [trace] [32bb81a47acf746b7901391829f3ad83] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:41:43.676723|::1| [trace] [67bf9f8cdbe1bfe611ad54cedc4bc2ef] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:41:43.690599|::1| [trace] [67bf9f8cdbe1bfe611ad54cedc4bc2ef] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:45:20.667299|::1| [trace] [9fa607b581c6c77b537ab34649d79772] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:45:20.679172|::1| [trace] [9fa607b581c6c77b537ab34649d79772] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'get_results', 'arr' => '1,2,3,4,5', 'insert' => '6', '_delete' => '1', 'num_delete' => '1', 'search' => '3', '_' => '1605939118709', )
+21/11/2020 14:45:35.499031|::1| [trace] [fbd87a3c2a503cd75a85c0110574db51] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:45:35.513310|::1| [trace] [fbd87a3c2a503cd75a85c0110574db51] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 14:45:46.170177|::1| [trace] [b637edec7f9b0323670a9822992e9f8b] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:45:46.183473|::1| [trace] [b637edec7f9b0323670a9822992e9f8b] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 14:46:52.203067|::1| [trace] [71affca03c97530551258cc1781f1e66] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:46:52.232743|::1| [trace] [71affca03c97530551258cc1781f1e66] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 14:47:13.219778|::1| [trace] [d76018f18443d45b2ef212f02e1394fa] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:47:13.236423|::1| [trace] [d76018f18443d45b2ef212f02e1394fa] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:47:39.715416|::1| [trace] [04152175bd973e1f0e3535a28748354a] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:47:39.728871|::1| [trace] [04152175bd973e1f0e3535a28748354a] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )
+21/11/2020 14:47:52.286375|::1| [trace] [37f64a05f11c27fc06c0a00570f46751] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:47:52.302093|::1| [trace] [37f64a05f11c27fc06c0a00570f46751] action (114) include_once() : array ( 'application' => 'basics', 'action' => 'initiate', )
+21/11/2020 14:48:11.844696|::1| [trace] [98d83819aa2084c460727aa984546299] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:48:11.866053|::1| [trace] [98d83819aa2084c460727aa984546299] action (114) include_once() : array ( 'application' => 'task', 'action' => 'initiate', )
+21/11/2020 14:48:11.986810|::1| [trace] [663f1517cc409d77e937a91bd33af82b] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:48:12.013533|::1| [trace] [663f1517cc409d77e937a91bd33af82b] action (114) include_once() : array ( 'application' => 'user', 'action' => 'initiate', )
+21/11/2020 14:48:16.282649|::1| [trace] [1c4caf2751d601d433c23f873fe4d968] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:48:16.300506|::1| [trace] [1c4caf2751d601d433c23f873fe4d968] action (114) include_once() : array ( 'application' => 'user', 'action' => 'logout', '_' => '1605950292548', )
+21/11/2020 14:48:16.324476|::1| [trace] [d7f29fb9401388c42ae8b8522751169b] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:48:16.337066|::1| [trace] [d7f29fb9401388c42ae8b8522751169b] action (114) include_once() : array ( 'application' => 'task', 'action' => 'login_form', )
+21/11/2020 14:48:16.363558|::1| [trace] [927baec7527a4c7d8f992c1ee458e992] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:48:16.375068|::1| [trace] [927baec7527a4c7d8f992c1ee458e992] action (114) include_once() : array ( 'application' => 'task', 'action' => 'login_form', )
+21/11/2020 14:48:16.433554|::1| [trace] [60f7e5a89a6ad95cc11aae950372015a] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:48:16.447241|::1| [trace] [60f7e5a89a6ad95cc11aae950372015a] action (114) include_once() : array ( 'application' => 'user', 'action' => 'initiate', )
+21/11/2020 14:48:16.477340|::1| [trace] [14c7aacbbe67a13c6716fbfbe05652f5] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:48:16.512348|::1| [trace] [14c7aacbbe67a13c6716fbfbe05652f5] action (114) include_once() : array ( 'application' => 'task', 'action' => 'login_form', )
+21/11/2020 14:51:38.084767|::1| [trace] [fba3c52ce28c2324d2cd9b4bc7a02a4e] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:51:38.098712|::1| [trace] [fba3c52ce28c2324d2cd9b4bc7a02a4e] action (114) include_once() : array ( 'application' => 'basics', 'action' => 'initiate', )
+21/11/2020 14:51:39.789855|::1| [trace] [f19844c7caff8d6b6849c2e73a360093] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:51:39.807248|::1| [trace] [f19844c7caff8d6b6849c2e73a360093] action (114) include_once() : array ( 'application' => 'abasics', 'action' => 'initiate', )
+21/11/2020 14:51:41.621666|::1| [trace] [91b159964caf6040f36a7540482ce9d6] database.class.inc (32) Database->connect() : Connecting to database. task4
+21/11/2020 14:51:41.635262|::1| [trace] [91b159964caf6040f36a7540482ce9d6] action (114) include_once() : array ( 'application' => 'mbasics', 'action' => 'initiate', )

@@ -28,12 +28,18 @@ if (isset($_POST['submit'])) {
         $search = array_search($_POST['search'], $created_array);
 
     }
-
 }
 ?>
 
 <!DOCTYPE HTML>
 <html>
+<head>
+    <meta charset="utf-8">
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"> </script>
+
+    
+    <title>ASSESMENT 1-2 SCORE</title>
+</head>
 
 <body>
 
@@ -48,7 +54,7 @@ if (isset($_POST['submit'])) {
         <br>
 
         <label>Entered Array Length Value is:</label>
-        <input type="number" name="length" value='<?php echo $array_length; ?>'  autocomplete="off" readonly>
+        <input type="number" name="length" value='<?php echo $array_length; ?>' autocomplete="off" readonly>
         <br>
         <br>
 
@@ -107,7 +113,7 @@ if (isset($_POST['submit'])) {
         <br>
 
         <label>Descending order Array Is:</label>
-        
+
         <?php rsort($created_array); print_r($created_array);?>
 
         <br>

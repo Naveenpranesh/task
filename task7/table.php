@@ -1,5 +1,6 @@
 <?php
 
+error_reporting(0);
 
 include 'connect.php';
 include 'class.php';
