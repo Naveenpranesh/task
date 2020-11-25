@@ -3,21 +3,18 @@
 
 	$(document).ready(function () {
 		$.mt_reports.on_click();
-		$.mt_reports.resetForm();
+
 	});
 
 	$.mt_reports = {
-		resetForm: function () {
-			$(document).on("click", "input[type='reset']", function (e) {
 
-			});
-		},
-
+	
 		on_click: function () {
-
+			console.log("here");
 			$(document).on("click", "button", function (ev) {
 
 				if ($(ev.target).is("button")) {
+					//console.log(ev.target.getAttribute("name"))
 					if (ev.target.getAttribute("id").trim() == 'get_All') {
 						getTable();
 					}
@@ -334,6 +331,7 @@
 						$(html).appendTo('#array_values');
 
 					}
+
 					if (ev.target.getAttribute('id').trim() == "proceed") {
 
 
@@ -576,16 +574,17 @@
 
 					}
 
-					if (ev.target.getAttribute('id').trim() === "m_delete") {
-
+					if (ev.target.getAttribute('id').trim() == "m_delete") {
 						var email = $("input[name='email_to_delete']").val();
+						console.log(email)
 						if (isEmail(email) != true) {
 							confirm("ENTER A  VALID EMAIL");
 						} else {
 							var r = confirm('Confirm Delete?');
 							if (r == true) {
 
-								var r_data = "id=" + id;
+								var r_data = "email=" + email;
+								console.log(r_data)
 								$.ajax(mtsoc_vars.base_url + 'gateway/action?application=mbasics&action=delete_user', {
 
 									data: r_data,
@@ -599,6 +598,14 @@
 							}
 						}
 					}
+
+					if (ev.target.getAttribute('name').trim() === "asc_arraylen_submit") {
+					
+						var asc_arr_length = $("#asc_array_length").val();
+						
+						
+					}
+
 				}
 			});
 

@@ -18,14 +18,11 @@
     <input type="number" name="array_length" id="array_length" autocomplete="off">
     <br>
 
-    <button name="submit_arr" id="submit_arr" autocomplete="off">Submit</button>
+    <button name="submit_arr" id="submit_arr" >Submit</button>
     <br>
     <br>
 
-    <!-- <label>Entered Array Length Value is:</label>
-    <input type="number" name="length" value='' autocomplete="off" readonly>
-    <br>
-    <br> -->
+   
 
     <div id='array_values'></div>
     <br>

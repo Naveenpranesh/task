@@ -13,7 +13,7 @@ $cur_hour = date("H",strtotime("now"));
 if($cur_hour!='0')
 $sub_pre_hr = $cur_hour - 1 ;
 else
-$sub_pre_hr =0;
+$sub_pre_hr =0; 
 $sub_pre_base_date=date("Y-m-d ".$sub_pre_hr.":59:59",strtotime("now"));
 $isbase=isset($request['send_mail'])?'yes':'no';
 $today=date('Y-m-d');

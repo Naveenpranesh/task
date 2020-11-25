@@ -105,19 +105,11 @@ class AbasicsModel {
 		$unique=array_unique($c_array);
 		$result ->unique=$unique;
 
-		
 	
-		
-		
-		
-		
 		$result ->merged_array=$merged_array;
 		
 		$result ->mer_count=$mer_count;
-		
-		
-		
-		
+
 		return (object)$result;
 	
 	}

@@ -51,19 +51,19 @@ class XMLtoArray {
 			$childs = $domnode->child_nodes ();
 			foreach ( $childs as $child ) {
 				if ($child->node_type () == XML_ELEMENT_NODE) {
-					$subnode = false;
+					$node = false;
 					$prefix = ($child->prefix ()) ? $child->prefix () . ':' : '';
 					
-					// try to check for multisubnodes
+					// try to check for multinodes
 					foreach ( $childs as $testnode )
 						if (is_object ( $testnode ))
 							if ($child->node_name () === $testnode->node_name () && $child != $testnode)
-								$subnode = true;
+								$node = true;
 					
 					if (is_array ( $result [$prefix . $child->node_name ()] ))
-						$subnode = true;
+						$node = true;
 					
-					if ($subnode == true)
+					if ($node == true)
 						$result [$prefix . $child->node_name ()] [] = $this->_recNode2Array ( $child );
 					else
 						$result [$prefix . $child->node_name ()] = $this->_recNode2Array ( $child );

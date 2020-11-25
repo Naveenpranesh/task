@@ -1,0 +1,483 @@
+@CHARSET "ISO-8859-1";
+
+.main-tabpanel .x-tab {
+    border-color: transparent;
+    border: none;
+}
+
+.main-tabpanel .x-tab-bar {
+    background: #dcdcdc url(../images/main-tab/tab-bg.png) left -1px repeat-x;
+}
+
+.main-tabpanel .x-tab-bar-body {
+    border-style: none;
+}
+
+.main-tabpanel .x-tab-bar-top .x-tab-bar-body {
+    border-width: 0;
+    height: 33px;
+    padding: 0px 0 0px;
+    background: transparent url(../images/main-tab/tab-bg-bottom.png) left bottom repeat-x;
+}
+
+.main-tabpanel .x-border-box .x-tab-bar-top .x-tab-bar-strip {
+    height: 0px;
+}
+
+.main-tabpanel .x-tab-bar-strip-default, .x-tab-bar-strip-default-plain {
+    background-color: transparent;
+    border-style: none;
+}
+
+.main-tabpanel .x-tab-default-top {
+    border-bottom: none !important;
+    box-shadow: none;
+}
+
+.main-tabpanel .x-tab-default-top {
+    background: none;
+    border-radius: 0px;
+    border-left: 0px solid #828282;
+    height: 27px;
+}
+
+.main-tabpanel .x-tab-default-top button {
+    height: 20px;
+}
+
+.main-tabpanel .x-tab button {
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.main-tabpanel .x-tab-top-active {
+    background: transparent url(../images/main-tab/tab-active-bg.png) left -1px repeat-x;
+    border-radius: 8px 8px 0px 0px;
+    border: 1px solid #3764b4;
+    border-bottom: none !important;
+}
+
+.main-tabpanel .x-tab-top-active button {
+    color: #FFFFFF;
+}
+
+.main-tabpanel .x-tab button .x-tab-icon, .x-tab a .x-tab-icon {
+    background-position: left top;
+}
+
+.main-tabpanel .x-tab button .x-tab-inner {
+    text-align: center;
+    padding-left: 20px;
+    background-position: 0 1px;
+    height: 18px;
+    line-height: 18px;
+    font-weight: normal;
+    background-image: url(../images/main-tab/tab-star-disabled.png);
+}
+
+.main-tabpanel .x-tab-top-active button .x-tab-inner {
+    background-image: url(../images/main-tab/tab-star.png);
+    font-weight: bold;
+}
+
+.main-tabpanel .x-panel-header-default {
+    background: #FFFFFF url(../images/others/title-bg.png) left top repeat-x;
+}
+
+.main-tabpanel .x-toolbar-default {
+    background: #FFFFFF url(../images/global-bar/gbar-bg.png) left -1px repeat-x;
+    border-color: #99BCE8;
+}
+
+#tray {
+    background: #ffffff url(../images/global-tray/tray.png) left bottom no-repeat;
+    float: right;
+    min-width: 200px;
+    height: 29px;
+}
+
+#float-hint {
+    background: #ffffff url(../images/global-menu/float-hint.png) left top no-repeat;
+    position: absolute;
+    z-index: 18000;
+    left: 0px;
+    top: 128px;
+    width: 7px;
+    height: 25px;
+    cursor: pointer;
+}
+
+#float-hint-pointer {
+    background: transparent url(../images/marker/wobble-arrow.gif) left -10px no-repeat;
+    text-align: left;
+    word-wrap: normal;
+    padding-left: 80px;
+    padding-top: 10px;
+    position: absolute;
+    z-index: 18000;
+    left: 10px;
+    top: 114px;
+    width: 205px;
+    height: 56px;
+    color: #416DA3;
+    font-size: 11px;
+    font-weight: bold;
+    display: none;
+}
+
+#float-hint-pointer-report {
+    background: transparent url(../images/marker/arrowdown.gif) center bottom no-repeat;
+    text-align: center;
+    word-wrap: normal;
+    padding: 10px;
+    position: absolute;
+    z-index: 18000;
+    left: 50px;
+    top: 480px;
+    width: 100px;
+    height: 160px;
+    color: #416DA3;
+    font-size: 11px;
+    font-weight: bold;
+    display: none;
+}
+
+.universal-search {
+    background-color: #F3F3F3;
+    border-color: #9D9D9D;
+}
+
+.universal-search:hover {
+    border-color: #81a4d0;
+    background-image: none;
+    background-color: #dbeeff;
+    background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #dbeeff), color-stop(48%, #d0e7ff), color-stop(52%, #bbd2f0), color-stop(100%, #bed6f5));
+	background-image: -moz-linear-gradient(top, #dbeeff,#d0e7ff 48%,#bbd2f0 52%,#bed6f5);
+	background-image: linear-gradient(top, #dbeeff,#d0e7ff 48%,#bbd2f0 52%,#bed6f5);
+}
+
+.float-menu .x-btn-default-small .x-btn-inner {
+	background-position: 5px center; 
+	text-align: left;
+	padding-left: 30px;
+}
+
+.float-menu .x-window-header-text{
+	background: transparent url(../images/global-menu/icon_world_dynamic.gif) left center no-repeat;
+	padding-left: 18px;
+}
+
+.global-wizard .x-btn-default-small .x-btn-inner {
+	background-position: 5px center; 
+	text-align: left;
+	padding-left: 30px;
+}
+
+.global-wizard .x-window-header-text{
+	background: transparent url(../images/global-wizard/orbit.png) left center no-repeat;
+	padding-left: 20px;
+}
+
+.wizard-slide-title .x-panel-body{
+	background: transparent url(../images/global-wizard/title-underscore.png) left bottom no-repeat;
+    color: #2e2e2e;
+    font-size: 12px;
+    font-weight: bold;
+	padding: 5px;
+	padding-bottom: 8px;
+}
+
+.wizard-slide-title img {
+	position:absolute;
+	right: 5px;
+	top: 5px;
+}
+
+.wizard-slide-stage .x-panel-body{
+    color: #2e2e2e;
+    font-size: 11px;
+    font-weight: bold;
+	padding-right: 20px;
+	padding-bottom: 0px;
+	text-align: right;
+}
+
+.wizard-slide-info .x-panel-body{
+    color: #2e2e2e;
+    font-size: 12px;
+    font-weight: normal;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	text-align: left;
+}
+
+.info-text .x-panel-body{
+    background: url("../images/others/info.gif") no-repeat scroll 105px 11px transparent !important;
+    color: #9c9b9b;
+    font-size: 11px;
+    font-weight: normal;
+    line-height: 16px;
+    padding-bottom: 15px;
+    padding-left: 125px;
+    padding-top: 8px;
+	padding-right: 10px;
+    text-align: justify;
+}
+.info-msg-text .x-panel-body{
+    background: url("../images/others/info.gif") no-repeat scroll 105px 11px transparent !important;
+    color: #9c9b9b;
+    font-size: 11px;
+    font-weight: normal;
+    line-height: 16px;
+    padding-bottom: 15px;
+    padding-left: 125px;
+    padding-top: 8px;
+	padding-right: 10px;
+    text-align: left;
+}
+
+.global-wizard .x-form-item-label {
+	font-weight: normal;
+	padding-left: 15px;
+	color: #2e2e2e;
+}
+
+.task .x-grid-cell-inner {
+    padding-left: 15px;
+}
+
+.report-menu .x-btn-default-small .x-btn-inner {
+	background-position: 5px center; 
+	text-align: left;
+	padding-left: 30px;
+}
+
+.main-tabpanel .reports-panel .x-toolbar-default {
+    background: #FFFFFF url(../images/others/scratchbar-bg.png) left bottom repeat-x;
+    border-color: transparent;
+}
+.report_synopsis {
+    text-align: justify;
+}
+
+.report_synopsis .x-panel-body {
+    padding: 10px;
+}
+
+.report_grid_holder .x-panel-header-default {
+    text-align: center;
+}
+
+.log-tabpanel .x-tab {
+    border-color: transparent;
+    border: none;
+}
+
+.log-tabpanel .x-tab-bar {
+	background-image: "none";
+    background-color: #FFFFFF;
+}
+
+.log-tabpanel .x-tab-bar-body {
+    border-style: none;
+}
+
+.log-tabpanel .x-tab-bar-top .x-tab-bar-body {
+    border-width: 0;
+    height: 27px;
+    padding: 0px 0 0px;
+    background: transparent url(../images/logmanager/tab-bg-bottom.png) left bottom repeat-x;
+}
+
+.log-tabpanel .x-border-box .x-tab-bar-top .x-tab-bar-strip {
+    height: 0px;
+}
+
+.log-tabpanel .x-tab-bar-strip-default, .x-tab-bar-strip-default-plain {
+    background-color: transparent;
+    border-style: none;
+}
+
+.log-tabpanel .x-tab-default-top {
+    border-bottom: none !important;
+    box-shadow: none;
+    height: 22px;
+    background: none;
+    border-radius: 0px;
+    border-left: 0px solid #828282;
+    margin-top: 3px;
+}
+
+.log-tabpanel .x-tab-default-top button {
+    height: 18px;
+}
+
+.log-tabpanel .x-tab button {
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.log-tabpanel .x-tab-top-active {
+    background: transparent url(../images/logmanager/tab-active-bg.png) left -1px repeat-x;
+    border-radius: 0px 0px 0px 0px;
+    border: 1px solid #98ccdd;
+    border-bottom: none !important;
+}
+
+.log-tabpanel .x-tab-top-active button {
+    color: #6e6e6e;
+}
+
+.log-tabpanel .x-tab button .x-tab-icon, .x-tab a .x-tab-icon {
+    background-position: left top;
+}
+
+.log-tabpanel .x-tab button .x-tab-inner {
+    text-align: center;
+    padding-left: 0px;
+    background-position: 0 1px;
+    height: 20px;
+    line-height: 14px;
+    font-weight: normal;
+    background-image: none;
+}
+
+.log-tabpanel .x-tab-top-active button .x-tab-inner {
+    background-image: "none";
+    font-weight: bold;
+}
+
+.log-tabpanel .x-panel-header-default {
+    background: #FFFFFF url(../images/others/title-bg.png) left top repeat-x;
+}
+
+.log-tabpanel .x-toolbar-default {
+    background: #FFFFFF url(../images/global-bar/gbar-bg.png) left -1px repeat-x;
+    border-color: #99BCE8;
+}
+
+.log-tabpanel .x-tree-icon {
+    background-image: url("../images/tree/folder-blue-icon-small.png");
+}
+
+.log-tabpanel .x-grid-tree-node-expanded .x-tree-icon {
+    background-image: url("../images/tree/folder-blue-open-icon-small.png");
+}
+
+.log-tabpanel .node-icon-root {
+    background-image: url(../images/tree/db.png) !important;
+}
+
+.log-tabpanel .node-icon-zip {
+    background-image: url(../images/tree/tgz-icon-small.png);
+}
+
+.log-tabpanel .node-icon-csv {
+    background-image: url(../images/tree/source-moc-icon-small.png);
+}
+
+.log-tabpanel .node-icon-log {
+    background-image: url(../images/tree/html-icon-small.png);
+}
+
+.log-tabpanel .node-icon-txt {
+    background-image: url(../images/tree/man-icon-small.png);
+}
+
+.status-list {
+    margin: auto;
+    width: 90%;
+    text-align: center;
+    font: 11px tahoma, arial, helvetica;
+    color: #555555;
+    font-weight: normal;
+    font-size: 8pt;
+}
+
+.status-icon {
+    background: transparent url(../images/apps/file-temporary-icon.png) 50% 50% no-repeat;
+    height: 120px;
+    text-align: center;
+    margin: auto;
+}
+
+.status-icon-zip {
+    background-image: url(../images/logmanager/tgz-icon.png);
+}
+
+.status-icon-txt {
+    background-image: url(../images/logmanager/man-icon.png);
+}
+
+.status-icon-log {
+    background-image: url(../images/logmanager/html-icon.png);
+}
+
+.status-icon-csv {
+    background-image: url(../images/logmanager/source-moc-icon.png);
+}
+
+.status-list dl dt, .status-list dl dd {
+    font: 11px tahoma, arial, helvetica;
+    color: #555555;
+    font-weight: bold;
+    display: inline;
+    margin-top: 6px;
+    width: 35%;
+    float: left;
+}
+
+.status-list dl dd {
+    font-weight: normal;
+    width: 65%;
+}
+
+.info_key_content {
+    font: 11px tahoma, arial, helvetica;
+    color: #555555;
+    display: inline;
+    margin-top: 6px;
+    margin-left: 25px;
+    width: 90%;
+    float: left;
+}
+
+div.info-text {
+    /*background: transparent url("../images/others/info.gif") left 8px no-repeat;*/
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: #555555;
+    font-family: tahoma, arial, verdana, sans-serif;
+    font-size: 11px;
+    font-weight: normal;
+    text-align: justify;
+}
+
+div.info-quote {
+    color: #ff0000;
+    font-family: tahoma, arial, verdana, sans-serif;
+    font-size: 11px;
+    font-weight: normal;
+    text-align: justify;
+}
+
+.search .x-grid-row {
+    border-color: transparent;
+    background: transparent url(../images/logmanager/grid-border.png) left bottom no-repeat;
+}
+
+.search .x-grid-cell-inner, .search .x-grid, .search .x-grid-row-alt .x-grid-cell, .x-grid-row-alt .x-grid-rowwrap-div, .search .x-grid-row-over, .search .x-grid-row .x-grid-cell {
+    background-color: transparent;
+    border: none;
+    white-space: normal;
+    word-wrap: normal;
+}
+
+.activeTabButton {
+    background: transparent url(../images/main-tab/tab-active-bg.png) left -1px repeat-x;
+    border-radius: 8px 8px 8px 8px;
+    border: 0px solid #3764b4;
+    color:#FFFFFF;
+    font-color:#FFFFFF;
+}

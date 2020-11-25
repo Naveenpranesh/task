@@ -1,0 +1,5 @@
+#pract/pract/DESKTOP-48FONG0/::1/2020-11-24/17:23:14/
+24/11/2020 17:23:14.163093|::1| [trace] [e101c668ef925cfd5c4f7d7ebe04fb5f] database.class.inc (32) Database->connect() : Connecting to database. task4
+24/11/2020 17:23:14.341700|::1| [trace] [e101c668ef925cfd5c4f7d7ebe04fb5f] action (114) include_once() : array ( 'application' => 'task', 'action' => 'login_form', )
+24/11/2020 20:47:48.484006|::1| [trace] [084d9dad88f4260b5d7e4221502f38c1] database.class.inc (32) Database->connect() : Connecting to database. task4
+24/11/2020 20:47:48.525638|::1| [trace] [084d9dad88f4260b5d7e4221502f38c1] action (114) include_once() : array ( 'application' => 'task', 'action' => 'login_form', )

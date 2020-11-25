@@ -1,0 +1,401 @@
+#recipe/recipe/DESKTOP-48FONG0/::1/2020-11-22/13:13:41/
+22/11/2020 13:13:41.907665|::1| [trace] [c82f37834f208fa5f5b2efdf1a6a61bc] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:13:42.025074|::1| [trace] [c82f37834f208fa5f5b2efdf1a6a61bc] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:13:42.080651|::1| [trace] [f446c5e1ee382aace2f40ae807c240a8] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:13:42.094782|::1| [trace] [f446c5e1ee382aace2f40ae807c240a8] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:13:42.128349|::1| [trace] [d6f5df5d3fbf182fd1123fabc2442292] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:13:42.160408|::1| [trace] [d6f5df5d3fbf182fd1123fabc2442292] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:13:42.193269|::1| [trace] [154c5c6ccc3921834526ed114f57245e] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:13:42.207189|::1| [trace] [154c5c6ccc3921834526ed114f57245e] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:13:42.240080|::1| [trace] [04508907e271cef77082919ed303ded2] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:13:42.265113|::1| [trace] [04508907e271cef77082919ed303ded2] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:13:42.296010|::1| [trace] [c4a130b4216045cdcc193b769f1a7b0f] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:13:42.311063|::1| [trace] [c4a130b4216045cdcc193b769f1a7b0f] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:13:42.343741|::1| [trace] [799a061fa82e323e5671b819ce1938fe] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:13:42.378566|::1| [trace] [799a061fa82e323e5671b819ce1938fe] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:13:42.437243|::1| [trace] [9a9a3d5f2e1c0ebca0452a92f6e3da8e] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:13:42.473648|::1| [trace] [9a9a3d5f2e1c0ebca0452a92f6e3da8e] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:13:42.553129|::1| [trace] [d142cd17a33b16214da81457ab0b69b4] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:13:42.604655|::1| [trace] [d142cd17a33b16214da81457ab0b69b4] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:13:42.684829|::1| [trace] [5b966da69a08bfe39a6a1bf9575d29e5] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:13:42.719367|::1| [trace] [5b966da69a08bfe39a6a1bf9575d29e5] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:13:43.916440|::1| [trace] [758f645c40a5a95872b2a73daa5abcdb] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:13:43.936387|::1| [trace] [758f645c40a5a95872b2a73daa5abcdb] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:13:43.990763|::1| [trace] [15ad8ea170cb8a6b8c3b07c9ade5c736] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:13:44.003643|::1| [trace] [15ad8ea170cb8a6b8c3b07c9ade5c736] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:13:44.037173|::1| [trace] [02a408747510c8094ecd42c51e905377] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:13:44.052958|::1| [trace] [02a408747510c8094ecd42c51e905377] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:13:44.086004|::1| [trace] [3ec8b2954f09df351e8ecc582f454e04] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:13:44.099956|::1| [trace] [3ec8b2954f09df351e8ecc582f454e04] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:13:44.125654|::1| [trace] [6a308177e5481d5c851f331876be835d] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:13:44.135335|::1| [trace] [6a308177e5481d5c851f331876be835d] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:13:44.160062|::1| [trace] [af65319bc5874c5bcf38ad22cef1b3ae] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:13:44.174702|::1| [trace] [af65319bc5874c5bcf38ad22cef1b3ae] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:13:44.200812|::1| [trace] [feafe1d805a3db7fa60f5762181ba2a0] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:13:44.237268|::1| [trace] [feafe1d805a3db7fa60f5762181ba2a0] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:13:44.269776|::1| [trace] [5a646913bb036b7134adcb8fcb2bcbdc] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:13:44.283987|::1| [trace] [5a646913bb036b7134adcb8fcb2bcbdc] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:13:44.312479|::1| [trace] [325f42b02c2825210dfbb633cb73e0fe] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:13:44.326462|::1| [trace] [325f42b02c2825210dfbb633cb73e0fe] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:13:44.352686|::1| [trace] [0796fe968c525e7357f763e8ce9fc91c] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:13:44.366875|::1| [trace] [0796fe968c525e7357f763e8ce9fc91c] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:13:49.477066|::1| [trace] [9c0d4bb122c7323c2fcfd2117f38451c] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:13:49.493948|::1| [trace] [9c0d4bb122c7323c2fcfd2117f38451c] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:13:49.569839|::1| [trace] [e4be7646a20564c5197742693d633fd4] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:13:49.594733|::1| [trace] [e4be7646a20564c5197742693d633fd4] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:13:49.733108|::1| [trace] [7c0f586d15a1d0723317377e24945b42] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:13:49.766685|::1| [trace] [7c0f586d15a1d0723317377e24945b42] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:13:49.790186|::1| [trace] [c616e9ae81422a514e80dc7983754682] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:13:49.800791|::1| [trace] [c616e9ae81422a514e80dc7983754682] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:13:49.820486|::1| [trace] [5f01d6f8fe9e705f9de3bd02eea4f4ae] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:13:49.830378|::1| [trace] [5f01d6f8fe9e705f9de3bd02eea4f4ae] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:13:49.851758|::1| [trace] [5594146cc0841ef3a1c72f432867e3f5] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:13:49.862905|::1| [trace] [5594146cc0841ef3a1c72f432867e3f5] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:13:49.889856|::1| [trace] [4dbd46efb4b3cf391589c036ca92df22] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:13:49.903043|::1| [trace] [4dbd46efb4b3cf391589c036ca92df22] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:13:49.927925|::1| [trace] [5b6cc127489512e63a18410373d37ea7] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:13:49.957406|::1| [trace] [5b6cc127489512e63a18410373d37ea7] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:13:49.982685|::1| [trace] [c455af254ed193c9801b3e912e6595fe] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:13:49.994973|::1| [trace] [c455af254ed193c9801b3e912e6595fe] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:13:50.019125|::1| [trace] [2d1e8d2889226752cc862a9cf723d746] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:13:50.031419|::1| [trace] [2d1e8d2889226752cc862a9cf723d746] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:01.983500|::1| [trace] [723606fa4849a6bd2d866d993a9a7dbe] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:01.999012|::1| [trace] [723606fa4849a6bd2d866d993a9a7dbe] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:02.030227|::1| [trace] [e52eec49ada07fe5d360bcc9626a9adc] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:02.050523|::1| [trace] [e52eec49ada07fe5d360bcc9626a9adc] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:02.079688|::1| [trace] [3f322b048839849109bdb584293e0785] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:02.093785|::1| [trace] [3f322b048839849109bdb584293e0785] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:02.118441|::1| [trace] [f4682f6d5e108c07bed95d542fdfaa57] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:02.154788|::1| [trace] [f4682f6d5e108c07bed95d542fdfaa57] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:02.216255|::1| [trace] [67365c03d531e5623e3a63d24c6b21f7] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:02.247128|::1| [trace] [67365c03d531e5623e3a63d24c6b21f7] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:02.287269|::1| [trace] [7644513cf2111539fbfabe8d1c8c7043] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:02.318345|::1| [trace] [7644513cf2111539fbfabe8d1c8c7043] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:02.354465|::1| [trace] [ac71cb8da8a7f91fc8c7de0beddda7b6] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:02.391351|::1| [trace] [ac71cb8da8a7f91fc8c7de0beddda7b6] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:02.451263|::1| [trace] [4399caba50179cc4aaf291ce40dc63be] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:02.482903|::1| [trace] [4399caba50179cc4aaf291ce40dc63be] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:02.558228|::1| [trace] [6699f5ad909ffb0e0e021f00e149a2eb] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:02.586777|::1| [trace] [6699f5ad909ffb0e0e021f00e149a2eb] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:02.656637|::1| [trace] [14279549737b10b0fccfef0e9fab7f62] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:02.707227|::1| [trace] [14279549737b10b0fccfef0e9fab7f62] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:03.860968|::1| [trace] [d68aabdc1aec7704ac1ef5681e80565e] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:03.879533|::1| [trace] [d68aabdc1aec7704ac1ef5681e80565e] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:03.913645|::1| [trace] [974b540aecf901d3e4ef4d8b15977993] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:03.932634|::1| [trace] [974b540aecf901d3e4ef4d8b15977993] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:03.968996|::1| [trace] [89aae6338fef37666c9a5bf2b97f7474] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:03.985709|::1| [trace] [89aae6338fef37666c9a5bf2b97f7474] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:04.016417|::1| [trace] [c6666f51e459e2c7c34afcca26247808] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:04.034830|::1| [trace] [c6666f51e459e2c7c34afcca26247808] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:04.073074|::1| [trace] [1fbc72778ee920cc7ba5053ae026a2bb] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:04.085191|::1| [trace] [1fbc72778ee920cc7ba5053ae026a2bb] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:04.111695|::1| [trace] [60e0edac01e8d8d291f3751bed678671] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:04.125047|::1| [trace] [60e0edac01e8d8d291f3751bed678671] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:04.149141|::1| [trace] [de7371a690e46eed99830be49f28c584] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:04.161900|::1| [trace] [de7371a690e46eed99830be49f28c584] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:04.187237|::1| [trace] [e52c9f5ae26e93e68cd6363fe1a8877c] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:04.218893|::1| [trace] [e52c9f5ae26e93e68cd6363fe1a8877c] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:04.269619|::1| [trace] [61d9adbf6dc9a38bf89746a8fb362d0e] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:04.301808|::1| [trace] [61d9adbf6dc9a38bf89746a8fb362d0e] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:04.382232|::1| [trace] [a2afdd5e31acd1717e606c037d3cfebe] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:04.434380|::1| [trace] [a2afdd5e31acd1717e606c037d3cfebe] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:09.602854|::1| [trace] [e88aa175aadf4056bd1a6f3637859cd3] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:09.620213|::1| [trace] [e88aa175aadf4056bd1a6f3637859cd3] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:09.654614|::1| [trace] [8de89ca5fd172f87b2623b82d61fbd44] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:09.670579|::1| [trace] [8de89ca5fd172f87b2623b82d61fbd44] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:09.712937|::1| [trace] [62a70e1fb5f2f5f05bd85cfbcde75ef4] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:09.733489|::1| [trace] [62a70e1fb5f2f5f05bd85cfbcde75ef4] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:09.787956|::1| [trace] [0785388c209335070aa7aa80baaef932] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:09.813623|::1| [trace] [0785388c209335070aa7aa80baaef932] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:09.843323|::1| [trace] [45cc44b659220719635c23b0acc2897c] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:09.854192|::1| [trace] [45cc44b659220719635c23b0acc2897c] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:09.880099|::1| [trace] [dd3e5ca9dfa35200fb7441f2eb395f3f] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:09.894304|::1| [trace] [dd3e5ca9dfa35200fb7441f2eb395f3f] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:09.921945|::1| [trace] [65632a75b24ef841cbc438414bccb1e3] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:09.936181|::1| [trace] [65632a75b24ef841cbc438414bccb1e3] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:09.970346|::1| [trace] [4bb0b346a493a8cdc7fc2d8ca8c8953f] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:09.985831|::1| [trace] [4bb0b346a493a8cdc7fc2d8ca8c8953f] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:10.014934|::1| [trace] [c3b7fc46d9d12a2ea5d24ecb8a6a347a] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:10.030340|::1| [trace] [c3b7fc46d9d12a2ea5d24ecb8a6a347a] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:10.061734|::1| [trace] [c6aa550c554d2ccce819f1ddca8fcc89] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:10.079976|::1| [trace] [c6aa550c554d2ccce819f1ddca8fcc89] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:37.147070|::1| [trace] [899f93fb4e9221a8d82646733105b847] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:37.163292|::1| [trace] [899f93fb4e9221a8d82646733105b847] action (114) include_once() : array ( 'application' => 'home', 'action' => 'initiate', )
+22/11/2020 13:14:37.199017|::1| [trace] [cb0ea79ba87fb57f1bc86a867ea4f289] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:37.376307|::1| [trace] [cb0ea79ba87fb57f1bc86a867ea4f289] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:37.433665|::1| [trace] [85eaf670edeef037d668967606921585] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:37.477899|::1| [trace] [85eaf670edeef037d668967606921585] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:37.534684|::1| [trace] [c1391afd0605889801dde5893ef8f432] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:37.561729|::1| [trace] [c1391afd0605889801dde5893ef8f432] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:37.632478|::1| [trace] [93e8fc238034d8282e2caa477d8d66a5] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:37.651401|::1| [trace] [93e8fc238034d8282e2caa477d8d66a5] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:37.689261|::1| [trace] [9919858313cd597aa7cc6640ce44778d] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:37.725692|::1| [trace] [9919858313cd597aa7cc6640ce44778d] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:37.763757|::1| [trace] [3c319a10ae40a2c8e93494540888cd3d] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:37.779964|::1| [trace] [3c319a10ae40a2c8e93494540888cd3d] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:37.817749|::1| [trace] [c61dd5b24a2f6419c9abdc161805f40d] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:37.834786|::1| [trace] [c61dd5b24a2f6419c9abdc161805f40d] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:37.872034|::1| [trace] [eb9a0497fc125f1abfbaf062a4fbed91] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:37.888156|::1| [trace] [eb9a0497fc125f1abfbaf062a4fbed91] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:37.926990|::1| [trace] [9d831ea2981c421c9d7c9918cd20a758] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:37.960201|::1| [trace] [9d831ea2981c421c9d7c9918cd20a758] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:39.117238|::1| [trace] [d1c36be8e7e56ac1cfa991edb5119adb] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:39.135464|::1| [trace] [d1c36be8e7e56ac1cfa991edb5119adb] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:39.175092|::1| [trace] [a71318f4461da23fcbd1ff5754bf4e32] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:39.192097|::1| [trace] [a71318f4461da23fcbd1ff5754bf4e32] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:39.220154|::1| [trace] [47f365f6af8d0be8981f50b5c1aa4ee6] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:39.231570|::1| [trace] [47f365f6af8d0be8981f50b5c1aa4ee6] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:39.250694|::1| [trace] [df7843931f88542c5fe5b658a253e3d6] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:39.281397|::1| [trace] [df7843931f88542c5fe5b658a253e3d6] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:39.302582|::1| [trace] [96bd70b0671e981dcb1631f5630a2456] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:39.331060|::1| [trace] [96bd70b0671e981dcb1631f5630a2456] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:39.366034|::1| [trace] [41dc0939b8b8ea8e1960e0d309a6c492] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:39.386564|::1| [trace] [41dc0939b8b8ea8e1960e0d309a6c492] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:39.429899|::1| [trace] [b0ea27e5f72da7e0503f11296c9c270b] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:39.460560|::1| [trace] [b0ea27e5f72da7e0503f11296c9c270b] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:39.502943|::1| [trace] [a1b73671a3cc53f6af07359369e2d6db] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:39.524533|::1| [trace] [a1b73671a3cc53f6af07359369e2d6db] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:39.567171|::1| [trace] [bba64b540c632e3b85a85d0444cf19b3] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:39.587897|::1| [trace] [bba64b540c632e3b85a85d0444cf19b3] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:39.638153|::1| [trace] [6a5829028180eb2069bff3dc4696d674] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:39.676460|::1| [trace] [6a5829028180eb2069bff3dc4696d674] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:44.833271|::1| [trace] [3b4981c0bc0546d3ad088da577361658] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:44.849771|::1| [trace] [3b4981c0bc0546d3ad088da577361658] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:44.880521|::1| [trace] [9b1f77fe431d36a9f241a74959959160] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:44.894633|::1| [trace] [9b1f77fe431d36a9f241a74959959160] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:44.943248|::1| [trace] [247c3f1528adf66e3565fa50ffa8c273] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:44.954333|::1| [trace] [247c3f1528adf66e3565fa50ffa8c273] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:44.979655|::1| [trace] [ce543fe07047a35e53d0cbd554623f3a] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:45.008356|::1| [trace] [ce543fe07047a35e53d0cbd554623f3a] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:45.036331|::1| [trace] [dd26e31f0c46b0d0f6f7befc3c085bca] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:45.049737|::1| [trace] [dd26e31f0c46b0d0f6f7befc3c085bca] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:45.076325|::1| [trace] [e29986371e5b54e1c008f6978f909208] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:45.101263|::1| [trace] [e29986371e5b54e1c008f6978f909208] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:45.125045|::1| [trace] [8eff62841a08908ca96d5dbd048a71a1] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:45.137690|::1| [trace] [8eff62841a08908ca96d5dbd048a71a1] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:45.163161|::1| [trace] [b2066f3c362bb6ececdc3c1f63a1cd16] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:45.177272|::1| [trace] [b2066f3c362bb6ececdc3c1f63a1cd16] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:45.197403|::1| [trace] [bf851e63e1dbe9cac61f66d9b8c46c36] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:45.209588|::1| [trace] [bf851e63e1dbe9cac61f66d9b8c46c36] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:45.236624|::1| [trace] [cb56d5e5fdaf75cb1044a2202a605f6d] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:45.260380|::1| [trace] [cb56d5e5fdaf75cb1044a2202a605f6d] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:49.960462|::1| [trace] [978de319f298642a4431b5b32c9cde04] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:49.981884|::1| [trace] [978de319f298642a4431b5b32c9cde04] action (114) include_once() : array ( 'application' => 'home', 'action' => 'login_form', )
+22/11/2020 13:14:50.018779|::1| [trace] [ad3a29768cfbdf9ac8396b912ab1b1f4] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:50.031917|::1| [trace] [ad3a29768cfbdf9ac8396b912ab1b1f4] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:50.065644|::1| [trace] [f6271b49f3393ee74eaa0996a2cecf7e] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:50.080735|::1| [trace] [f6271b49f3393ee74eaa0996a2cecf7e] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:50.102067|::1| [trace] [cb963d623168c25067cf2353f7fafccd] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:50.113569|::1| [trace] [cb963d623168c25067cf2353f7fafccd] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:50.138622|::1| [trace] [40a9e797aae6942950e242a307c59720] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:50.153145|::1| [trace] [40a9e797aae6942950e242a307c59720] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:50.178910|::1| [trace] [b383cfac14cc0f985abb82008f31573e] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:50.192806|::1| [trace] [b383cfac14cc0f985abb82008f31573e] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:50.217896|::1| [trace] [4ccabd79774d6305f5dc52b64f210153] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:50.231081|::1| [trace] [4ccabd79774d6305f5dc52b64f210153] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:50.253817|::1| [trace] [850b3fa453b8fb4835fdecc64332830c] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:50.264245|::1| [trace] [850b3fa453b8fb4835fdecc64332830c] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:50.287391|::1| [trace] [7b0f4c795121468625a92df5031db1f1] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:50.299968|::1| [trace] [7b0f4c795121468625a92df5031db1f1] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:50.321939|::1| [trace] [cae7cc22877d0f6261a303f8e71795a4] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:50.355263|::1| [trace] [cae7cc22877d0f6261a303f8e71795a4] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:51.453108|::1| [trace] [90fed90cda7b19cee32631591b70e0fe] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:51.488962|::1| [trace] [90fed90cda7b19cee32631591b70e0fe] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:51.527316|::1| [trace] [0ce782d5c8f076fb63d2b250d308aed3] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:51.546380|::1| [trace] [0ce782d5c8f076fb63d2b250d308aed3] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:51.574783|::1| [trace] [f90f371929584e5ae3ff68aa6a5d9839] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:51.587009|::1| [trace] [f90f371929584e5ae3ff68aa6a5d9839] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:51.614178|::1| [trace] [47da8c2899383b97f91864b4f1e86203] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:51.628391|::1| [trace] [47da8c2899383b97f91864b4f1e86203] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:51.653832|::1| [trace] [083fbd7a4650c491a866f60678033123] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:51.666596|::1| [trace] [083fbd7a4650c491a866f60678033123] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:51.692002|::1| [trace] [24c95c83054fcdee2f8e6083ef22698c] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:51.705163|::1| [trace] [24c95c83054fcdee2f8e6083ef22698c] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:51.732577|::1| [trace] [04846548f18ccd0c0e3e9c763a303c7f] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:51.745693|::1| [trace] [04846548f18ccd0c0e3e9c763a303c7f] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:51.771342|::1| [trace] [5dfadd9ca6d0e4e740293a4a3e2eef29] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:51.798564|::1| [trace] [5dfadd9ca6d0e4e740293a4a3e2eef29] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:51.824906|::1| [trace] [1a8501d2d2fa2d0b22bf040b118a96ca] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:51.840286|::1| [trace] [1a8501d2d2fa2d0b22bf040b118a96ca] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:14:51.880335|::1| [trace] [d1f3e15974bb35d400a6e15ab291445d] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:14:51.898461|::1| [trace] [d1f3e15974bb35d400a6e15ab291445d] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:08.755425|::1| [trace] [33cf369a28e16b13aa4997d2d4599cb5] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:08.779160|::1| [trace] [33cf369a28e16b13aa4997d2d4599cb5] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:08.819837|::1| [trace] [ae4e0f69d3bfc91200a6b5680fcddfaf] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:08.841898|::1| [trace] [ae4e0f69d3bfc91200a6b5680fcddfaf] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:08.871890|::1| [trace] [04340348f47aca6ac5140f76646dafbd] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:08.886379|::1| [trace] [04340348f47aca6ac5140f76646dafbd] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:08.910438|::1| [trace] [42b9776639d96bd229451d554c7c44ad] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:08.923507|::1| [trace] [42b9776639d96bd229451d554c7c44ad] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:08.951574|::1| [trace] [0c094140049ed18e90a449e3d43778c5] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:08.967350|::1| [trace] [0c094140049ed18e90a449e3d43778c5] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:08.992810|::1| [trace] [4dd946635150f8db8873c89a7662a0f5] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:09.012111|::1| [trace] [4dd946635150f8db8873c89a7662a0f5] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:09.037730|::1| [trace] [86b260437b39e9624a52f472f2799171] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:09.063920|::1| [trace] [86b260437b39e9624a52f472f2799171] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:09.090878|::1| [trace] [c198add31f76476f263d72c941bc37b9] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:09.102473|::1| [trace] [c198add31f76476f263d72c941bc37b9] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:09.125976|::1| [trace] [9ad23e9ab3e26c5a34873c32e340b346] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:09.134577|::1| [trace] [9ad23e9ab3e26c5a34873c32e340b346] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:09.154274|::1| [trace] [11b5afdf000c88d94a646fea0e71050c] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:09.165942|::1| [trace] [11b5afdf000c88d94a646fea0e71050c] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:10.289047|::1| [trace] [50aed59f37f8eaa827ff837e39d04b51] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:10.318701|::1| [trace] [50aed59f37f8eaa827ff837e39d04b51] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:10.351367|::1| [trace] [c6304e264a9227795d95e609e8e98d14] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:10.370455|::1| [trace] [c6304e264a9227795d95e609e8e98d14] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:10.400876|::1| [trace] [42abb8c8fc3d5fabacb0f677402d0fe2] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:10.415613|::1| [trace] [42abb8c8fc3d5fabacb0f677402d0fe2] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:10.440002|::1| [trace] [1f4ed6c94ba1d0af68ca3a9825e68f65] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:10.451452|::1| [trace] [1f4ed6c94ba1d0af68ca3a9825e68f65] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:10.483025|::1| [trace] [4d1d0f8070ecb763a6bdcbd0fe395026] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:10.501478|::1| [trace] [4d1d0f8070ecb763a6bdcbd0fe395026] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:10.530411|::1| [trace] [a596fe7d8c683293f229eb43643621eb] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:10.551219|::1| [trace] [a596fe7d8c683293f229eb43643621eb] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:10.579103|::1| [trace] [f6487bab3e81f1f71259a5ea6e32f2e1] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:10.591077|::1| [trace] [f6487bab3e81f1f71259a5ea6e32f2e1] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:10.617466|::1| [trace] [6689b22896f8fadb88a07b15d71d9f20] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:10.629904|::1| [trace] [6689b22896f8fadb88a07b15d71d9f20] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:10.653970|::1| [trace] [638f449a9ca91f9e02ffab7ed5759e5f] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:10.685226|::1| [trace] [638f449a9ca91f9e02ffab7ed5759e5f] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:10.710354|::1| [trace] [b3cf51aefee7e2b5dd5449addc2fad9d] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:10.724277|::1| [trace] [b3cf51aefee7e2b5dd5449addc2fad9d] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:15.865458|::1| [trace] [1359e13e293448b2f2fa223bad8f6ae7] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:15.881589|::1| [trace] [1359e13e293448b2f2fa223bad8f6ae7] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:15.912924|::1| [trace] [aa09cfdb19dbd79529b47822c61e59ed] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:15.926196|::1| [trace] [aa09cfdb19dbd79529b47822c61e59ed] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:15.958925|::1| [trace] [efe75f2f3496ecbb2408cfac9971724a] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:15.971898|::1| [trace] [efe75f2f3496ecbb2408cfac9971724a] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:15.999450|::1| [trace] [5b314c2579b33c30937c12cae9f0d0c8] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:16.013931|::1| [trace] [5b314c2579b33c30937c12cae9f0d0c8] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:16.046931|::1| [trace] [86756907d2e66c35138e5e84d125f6a4] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:16.062032|::1| [trace] [86756907d2e66c35138e5e84d125f6a4] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:16.095408|::1| [trace] [0ab9af9905cb672820e06b74eab4decd] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:16.112735|::1| [trace] [0ab9af9905cb672820e06b74eab4decd] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:16.148119|::1| [trace] [c15d85abd349d825b896faaea38cab73] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:16.163811|::1| [trace] [c15d85abd349d825b896faaea38cab73] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:16.194567|::1| [trace] [77531e4091de27bc8769f01c5ba1ede9] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:16.206532|::1| [trace] [77531e4091de27bc8769f01c5ba1ede9] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:16.237358|::1| [trace] [154752a7de0a47ca5e4bef2e11b4fe73] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:16.253138|::1| [trace] [154752a7de0a47ca5e4bef2e11b4fe73] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:16.286672|::1| [trace] [cab979ec7caa879a35d9fe4ef37feae9] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:16.300626|::1| [trace] [cab979ec7caa879a35d9fe4ef37feae9] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:46.406483|::1| [trace] [6c97f99d51600a91e213285c099e4965] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:46.429054|::1| [trace] [6c97f99d51600a91e213285c099e4965] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:46.457528|::1| [trace] [d985bfcf36d12616373f2c1c3bcce9df] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:46.473061|::1| [trace] [d985bfcf36d12616373f2c1c3bcce9df] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:46.507204|::1| [trace] [08dbf25fed0cca624c90679b122a58c8] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:46.518743|::1| [trace] [08dbf25fed0cca624c90679b122a58c8] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:46.546638|::1| [trace] [cf41c790270ae1f56d36e8f929bd8657] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:46.558676|::1| [trace] [cf41c790270ae1f56d36e8f929bd8657] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:46.596559|::1| [trace] [83f62c16cf7d6fb31099de9ade8c5b69] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:46.609581|::1| [trace] [83f62c16cf7d6fb31099de9ade8c5b69] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:46.634285|::1| [trace] [ab192bdece047999d6aa6313bfb7876b] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:46.659349|::1| [trace] [ab192bdece047999d6aa6313bfb7876b] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:46.685096|::1| [trace] [ed224a0e82ea18719ccd4315edc93db7] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:46.698328|::1| [trace] [ed224a0e82ea18719ccd4315edc93db7] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:46.724786|::1| [trace] [c892f8ac7d4ae95892161286ee5dde6a] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:46.737593|::1| [trace] [c892f8ac7d4ae95892161286ee5dde6a] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:46.765604|::1| [trace] [31ce9560bf203999a9bc8c15d96d0a6b] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:46.778995|::1| [trace] [31ce9560bf203999a9bc8c15d96d0a6b] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:15:46.804682|::1| [trace] [de612c14b49916f64d19e855252bfb5f] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:15:46.833199|::1| [trace] [de612c14b49916f64d19e855252bfb5f] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:16:46.984380|::1| [trace] [2dcfca97de694af1bc9e90378b1a7505] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:16:47.000986|::1| [trace] [2dcfca97de694af1bc9e90378b1a7505] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:16:47.041204|::1| [trace] [d41fabcf6859c0f8cd1c9a8afb6f0ab4] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:16:47.060365|::1| [trace] [d41fabcf6859c0f8cd1c9a8afb6f0ab4] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:16:47.094089|::1| [trace] [2598c69693173044742c675067b1158d] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:16:47.107954|::1| [trace] [2598c69693173044742c675067b1158d] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:16:47.133028|::1| [trace] [f5a1873283cf966aa4013b1701eb9473] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:16:47.148154|::1| [trace] [f5a1873283cf966aa4013b1701eb9473] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:16:47.180207|::1| [trace] [120bc74db42b757c100dbf9f6217633c] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:16:47.193937|::1| [trace] [120bc74db42b757c100dbf9f6217633c] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:16:47.218575|::1| [trace] [26a45ea46cd3d5255a0fdc11e4131342] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:16:47.243669|::1| [trace] [26a45ea46cd3d5255a0fdc11e4131342] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:16:47.272203|::1| [trace] [e118b95d3fffe099773c5ac9212d1716] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:16:47.286659|::1| [trace] [e118b95d3fffe099773c5ac9212d1716] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:16:47.315021|::1| [trace] [530e24b76e3c4f1c2bffcc3463c38a4f] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:16:47.339168|::1| [trace] [530e24b76e3c4f1c2bffcc3463c38a4f] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:16:47.376835|::1| [trace] [0d9cdb7031ecdbbc78a60450e49d0ac0] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:16:47.400300|::1| [trace] [0d9cdb7031ecdbbc78a60450e49d0ac0] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:16:47.450756|::1| [trace] [590695ec4458a4f7994376710afd1eeb] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:16:47.488621|::1| [trace] [590695ec4458a4f7994376710afd1eeb] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'initiate', )
+22/11/2020 13:17:54.654242|::1| [trace] [9b9334f911810b94a4a980bf322b2852] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:17:54.674262|::1| [trace] [9b9334f911810b94a4a980bf322b2852] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 13:31:47.556613|::1| [trace] [ca29c055cf0fffdb5a707fd7fbe49af7] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:31:47.574170|::1| [trace] [ca29c055cf0fffdb5a707fd7fbe49af7] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 13:33:07.622631|::1| [trace] [9614735ec7b6e70b6d4137df942331d1] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:33:07.644565|::1| [trace] [9614735ec7b6e70b6d4137df942331d1] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 13:34:49.572654|::1| [trace] [69c642ba814b8e646e4abfadf303016b] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:34:49.589570|::1| [trace] [69c642ba814b8e646e4abfadf303016b] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 13:34:50.936656|::1| [trace] [67f38812cc438966044ab36d8226e789] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:34:50.952408|::1| [trace] [67f38812cc438966044ab36d8226e789] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 13:36:50.488239|::1| [trace] [3939f864728c020766fe674a27e5d056] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:36:50.503034|::1| [trace] [3939f864728c020766fe674a27e5d056] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 13:36:51.802788|::1| [trace] [2c7d22804545a30f7e4a62060cd1a089] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:36:51.816060|::1| [trace] [2c7d22804545a30f7e4a62060cd1a089] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 13:40:12.078845|::1| [trace] [6fb74484b185223276e11c32f314dad7] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:40:12.096920|::1| [trace] [6fb74484b185223276e11c32f314dad7] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 13:40:31.930411|::1| [trace] [40f95a87c3bdc4a7672bda4451b8a5e2] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:40:31.963500|::1| [trace] [40f95a87c3bdc4a7672bda4451b8a5e2] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 13:40:42.866770|::1| [trace] [f9cd9def809edb6cf5daaf4d7b23de4e] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:40:42.880198|::1| [trace] [f9cd9def809edb6cf5daaf4d7b23de4e] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 13:40:59.891218|::1| [trace] [7ab046dcc57b4a773ff906d484f496d1] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:40:59.916019|::1| [trace] [7ab046dcc57b4a773ff906d484f496d1] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 13:44:05.296340|::1| [trace] [a974c150b6a2cbb61729125b19a5efa1] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:44:05.314289|::1| [trace] [a974c150b6a2cbb61729125b19a5efa1] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 13:45:46.028840|::1| [trace] [366611ced70b68019e181b49587f38be] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:45:46.047683|::1| [trace] [366611ced70b68019e181b49587f38be] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 13:45:54.207566|::1| [trace] [f273ddfac63f9970850b0ea3be23d899] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:45:54.227227|::1| [trace] [f273ddfac63f9970850b0ea3be23d899] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 13:47:38.445559|::1| [trace] [29a2873bd776d987956fb2da163c192d] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:47:38.463068|::1| [trace] [29a2873bd776d987956fb2da163c192d] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 13:47:39.504329|::1| [trace] [23852d62b9e2c002f525487b383a6412] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:47:39.540961|::1| [trace] [23852d62b9e2c002f525487b383a6412] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 13:47:40.574374|::1| [trace] [73121c1eebe49537945d76c8c5bfedd7] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:47:40.588392|::1| [trace] [73121c1eebe49537945d76c8c5bfedd7] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 13:51:19.418260|::1| [trace] [7c682a7fcb7d7ef99318729f809dd103] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:51:20.005446|::1| [trace] [7c682a7fcb7d7ef99318729f809dd103] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 13:51:28.402211|::1| [trace] [f79bf30ceb70573e6b669d3c360b07f0] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:51:28.418056|::1| [trace] [f79bf30ceb70573e6b669d3c360b07f0] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 13:57:30.945172|::1| [trace] [2dbb393e47f969e2bd6e640a206ba090] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 13:57:31.477257|::1| [trace] [2dbb393e47f969e2bd6e640a206ba090] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 15:05:45.846286|::1| [trace] [577afdb76aa7afc3fbd0116c4fa87b57] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 15:05:45.863457|::1| [trace] [577afdb76aa7afc3fbd0116c4fa87b57] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 15:08:23.723556|::1| [trace] [72c7212816efb34e544d1d720ebafa47] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 15:08:23.739238|::1| [trace] [72c7212816efb34e544d1d720ebafa47] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 15:09:21.103494|::1| [trace] [c2323aeaf8af5154c13ffbdc8696f581] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 15:09:21.118388|::1| [trace] [c2323aeaf8af5154c13ffbdc8696f581] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 15:12:54.925545|::1| [trace] [925bc8dec09227b5b46eaa88e13fc68b] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 15:12:54.938642|::1| [trace] [925bc8dec09227b5b46eaa88e13fc68b] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 15:14:48.471800|::1| [trace] [3ae25f67521d627df023af34eba8a79f] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 15:14:48.485045|::1| [trace] [3ae25f67521d627df023af34eba8a79f] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 15:16:36.410587|::1| [trace] [ee44b4246e504753c6049c79c93fa8fa] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 15:16:36.458827|::1| [trace] [ee44b4246e504753c6049c79c93fa8fa] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 15:18:32.691927|::1| [trace] [31bce90488ac88083e78cb65e97680de] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 15:18:32.703366|::1| [trace] [31bce90488ac88083e78cb65e97680de] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 15:18:58.935255|::1| [trace] [28cc9d97dcebd14086236bcfd5dbd16d] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 15:18:58.951073|::1| [trace] [28cc9d97dcebd14086236bcfd5dbd16d] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 15:19:36.590699|::1| [trace] [c8d6431bc2bb4b4b466da26e23083a1d] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 15:19:36.606578|::1| [trace] [c8d6431bc2bb4b4b466da26e23083a1d] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 15:39:13.424727|::1| [trace] [e4012f452e18b51a45ec260fcefe81b5] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 15:39:15.837534|::1| [trace] [c5976f4b3d338b310cc0edeeefc53122] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 15:39:15.852257|::1| [trace] [c5976f4b3d338b310cc0edeeefc53122] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 15:39:24.362416|::1| [trace] [9525f759f4c8118588b9df0b7a622335] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 15:39:26.175188|::1| [trace] [0e721dc152bbe8102940d866dcdbe637] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 15:39:26.188774|::1| [trace] [0e721dc152bbe8102940d866dcdbe637] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 15:41:06.589210|::1| [trace] [f35549f852f5a84d59c2e3ecb4b3d15c] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 15:41:06.606419|::1| [trace] [f35549f852f5a84d59c2e3ecb4b3d15c] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 15:41:29.969952|::1| [trace] [40247efa570125ccaa6e009f952a0adc] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 15:41:29.984790|::1| [trace] [40247efa570125ccaa6e009f952a0adc] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 15:41:50.295433|::1| [trace] [921e67c814884df266850e6a98856681] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 15:41:50.308809|::1| [trace] [921e67c814884df266850e6a98856681] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 15:41:51.284003|::1| [trace] [69396fa413bb7148dba9b0730bb40d61] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 15:41:51.296257|::1| [trace] [69396fa413bb7148dba9b0730bb40d61] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 15:42:11.156163|::1| [trace] [2b760eab923282977708e573fe4c736a] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 15:42:11.169724|::1| [trace] [2b760eab923282977708e573fe4c736a] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 15:42:34.669763|::1| [trace] [a5de4cdaa0f429ae105488fbe5597d05] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 15:42:34.682967|::1| [trace] [a5de4cdaa0f429ae105488fbe5597d05] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 15:42:49.270867|::1| [trace] [eaa38cd1afbf29857d1652c0bd6a37aa] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 15:42:49.283051|::1| [trace] [eaa38cd1afbf29857d1652c0bd6a37aa] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )
+22/11/2020 15:43:12.284943|::1| [trace] [d646aa2f580e56fb0101ce75ce6637f8] database.class.inc (32) Database->connect() : Connecting to database. task4
+22/11/2020 15:43:12.295157|::1| [trace] [d646aa2f580e56fb0101ce75ce6637f8] action (114) include_once() : array ( 'application' => 'recipeadmin', 'action' => 'login_form', )

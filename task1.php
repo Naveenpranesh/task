@@ -34,11 +34,12 @@ if (isset($_POST['submit'])) {
 
 <!DOCTYPE HTML>
 <html>
+
 <head>
     <meta charset="utf-8">
     <script src="https://code.jquery.com/jquery-3.1.1.min.js"> </script>
 
-    
+
     <title>ASSESMENT 1-1 SCORE</title>
 </head>
 
@@ -50,40 +51,70 @@ if (isset($_POST['submit'])) {
         <label>Input String:</label>
         <input type="text" name="input" autocomplete="off">
         <br>
-         <br>
+        <br>
 
         <label>String need to be replaced:</label>
         <input type="text" name="needtoreplace" autocomplete="off">
         <br>
-         <br>
+        <br>
 
         <label>Replacing String:</label>
         <input type="text" name="replace_word" autocomplete="off">
         <br>
-         <br>
+        <br>
 
         <label>Input String to find its position:</label>
         <input type="text" name="string_position" autocomplete="off">
         <br>
-         <br>
+        <br>
         <input type="submit" name="submit" autocomplete="off">
 
         <h2>Output:</h2>
-        <label><h4>Length of the String is: <?php echo $len; ?></h4></label>
-        <label><h4>Shuffled String is: <?php echo $shuffled; ?></h4></label>
-        <label><h4>Word Count of the input is: <?php echo $wordcount; ?></h4></label>
-        <label><h4>Replaced String is: <?php echo $replaced; ?></h4></label>
-        <label><h4>Given string position is: <?php echo $position; ?></h4></label>
-        <label><h4>Lower Case of the String is: <?php echo $lower; ?></h4></label>
-        <label><h4>Upper Case of the String is: <?php echo $upper; ?></h4></label>
-        <label><h4>First Letter of the String is: <?php echo $first_letter; ?></h4></label>
-        <label><h4>Last Letter of the String is: <?php echo $last_letter; ?></h4></label>
-        <label><h4>Reversed String is: <?php echo $reversed; ?></h4></label>
-        <label><h4>First Letter Upper Case String is: <?php echo $f_upper; ?></h4></label>
-        <label><h4>First Letter Lower Case String is: <?php echo $f_lower; ?></h4></label>
-        <label><h4>md5 converted String is: <?php echo $md5; ?></h4></label>
-        <label><h4>White Space Removed String is: <?php echo $whitespaceremoved; ?></h4></label>
-        <label><h4>String Comparission: <?php echo $stringcompare; ?></h4></label>
+        <label>
+            <h4>Length of the String is: <?php echo $len; ?></h4>
+        </label>
+        <label>
+            <h4>Shuffled String is: <?php echo $shuffled; ?></h4>
+        </label>
+        <label>
+            <h4>Word Count of the input is: <?php echo $wordcount; ?></h4>
+        </label>
+        <label>
+            <h4>Replaced String is: <?php echo $replaced; ?></h4>
+        </label>
+        <label>
+            <h4>Given string position is: <?php echo $position; ?></h4>
+        </label>
+        <label>
+            <h4>Lower Case of the String is: <?php echo $lower; ?></h4>
+        </label>
+        <label>
+            <h4>Upper Case of the String is: <?php echo $upper; ?></h4>
+        </label>
+        <label>
+            <h4>First Letter of the String is: <?php echo $first_letter; ?></h4>
+        </label>
+        <label>
+            <h4>Last Letter of the String is: <?php echo $last_letter; ?></h4>
+        </label>
+        <label>
+            <h4>Reversed String is: <?php echo $reversed; ?></h4>
+        </label>
+        <label>
+            <h4>First Letter Upper Case String is: <?php echo $f_upper; ?></h4>
+        </label>
+        <label>
+            <h4>First Letter Lower Case String is: <?php echo $f_lower; ?></h4>
+        </label>
+        <label>
+            <h4>md5 converted String is: <?php echo $md5; ?></h4>
+        </label>
+        <label>
+            <h4>White Space Removed String is: <?php echo $whitespaceremoved; ?></h4>
+        </label>
+        <label>
+            <h4>String Comparission: <?php echo $stringcompare; ?></h4>
+        </label>
 
 
     </form>
